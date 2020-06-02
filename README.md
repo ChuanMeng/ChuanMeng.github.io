@@ -8,7 +8,7 @@ I work on [Knowledge-Grounded Conversation (KGC)](https://github.com/ChuanMeng/K
 * **Chuan Meng**, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, Maarten de Rijke. **RefNet: A Reference-aware Network for Background Based Conversation**. The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), February 7-12, 2020, New York, USA. (CCF A) [[pdf]](https://arxiv.org/abs/1908.06449) [[code]](https://github.com/ChuanMeng/RefNet)
 
 ### Academic Service
-* PC member for **COLING 2020**
+* Program committee, **COLING 2020**
 
 ### Contact
 * Email: mengchuan@mail.sdu.edu.cn
