@@ -11,4 +11,4 @@ I work on [Knowledge-Grounded Conversation (KGC)](https://github.com/ChuanMeng/K
 * PC member for **COLING 2020**
 
 ### Contact
-* Email: mengchuan@mail.sdu.edu.en
+* Email: mengchuan@mail.sdu.edu.cn
