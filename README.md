@@ -1,7 +1,9 @@
 ## Chuan Meng (孟 川)
 
-I'm a postgraduate student at Information Retrieval Laboratory at Shandong University, supervised by [Pengjie Ren](https://pengjieren.github.io/)  
-I work on [Knowledge-Grounded Conversation (KGC)](https://github.com/ChuanMeng/Knowldege-Grounded-Conversation).
+I'm a postgraduate student at Information Retrieval Laboratory at Shandong University, supervised by Zhumin Chen and [Pengjie Ren](https://pengjieren.github.io/). 
+The research direction of mine is **Knowledge-Grounded Conversation (KGC)**.
+
+The paper list that I keep updating for KGC could be get [here](https://github.com/ChuanMeng/Knowldege-Grounded-Conversation). 
 
 ### Publications
 * **Chuan Meng**, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke. **DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation**. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), Xian, July 25-30, 2020. (CCF A) [[pdf]]() [[code]](https://github.com/ChuanMeng/DukeNet)
