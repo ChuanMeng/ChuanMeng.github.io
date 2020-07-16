@@ -9,6 +9,7 @@ I work on [Knowledge-Grounded Conversation (KGC)](https://github.com/ChuanMeng/K
 
 ### Academic Service
 * Program committee, **COLING 2020**
+* External reviewer, **ICONIP 2020**
 
 ### Contact
 * Email: mengchuan@mail.sdu.edu.cn
