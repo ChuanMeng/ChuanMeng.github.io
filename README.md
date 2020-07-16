@@ -1,4 +1,4 @@
-## Chuan Meng (孟川)
+## Chuan Meng (孟 川)
 
 I'm a postgraduate student at Information Retrieval Laboratory at Shandong University. 
 I work on [Knowledge-Grounded Conversation (KGC)](https://github.com/ChuanMeng/Knowldege-Grounded-Conversation).
