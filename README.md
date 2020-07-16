@@ -1,6 +1,6 @@
 ## Chuan Meng (孟 川)
 
-I'm a postgraduate student at Information Retrieval Laboratory at Shandong University. 
+I'm a postgraduate student at Information Retrieval Laboratory at Shandong University, supervised by [Pengjie Ren](https://pengjieren.github.io/)  
 I work on [Knowledge-Grounded Conversation (KGC)](https://github.com/ChuanMeng/Knowldege-Grounded-Conversation).
 
 ### Publications
@@ -12,4 +12,4 @@ I work on [Knowledge-Grounded Conversation (KGC)](https://github.com/ChuanMeng/K
 * External reviewer, **ICONIP 2020**
 
 ### Contact
-* Email: mengchuan@mail.sdu.edu.cn
+* Email: mengchuan AT mail.sdu.edu.cn
