@@ -10,6 +10,7 @@ The **paper list** that I keep updating for KGC could be get [here](https://gith
 * **Chuan Meng**, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, Maarten de Rijke. **RefNet: A Reference-aware Network for Background Based Conversation**. The Thirty-Fourth AAAI Conference on Artificial Intelligence (**AAAI**), February 7-12, 2020, New York, USA. (CCF A) [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6370) [[code]](https://github.com/ChuanMeng/RefNet)
 
 ### Academic Service
+* Program committee, **AAAI 2021**
 * Program committee, **COLING 2020**
 * External reviewer, **ICONIP 2020**
 
