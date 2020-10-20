@@ -17,6 +17,7 @@ The **paper list** that I keep updating for KGC could be get [here](https://gith
 ### Scholarships and Awards
 * SIGIR Student Travel Grant, 2020
 * AAAI Student Scholar Scholarship, 2019
+* National Scholarship, 2020
 * Scholarship for Outstanding Postgraduate Cadres of Shandong University, 2019
 * Academic Scholarship for Master students of Shandong University, 2019
 * Outstanding Students of Shandong Province, 2017
