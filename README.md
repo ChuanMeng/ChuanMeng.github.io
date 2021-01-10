@@ -1,7 +1,9 @@
 ## Chuan Meng (孟 川)
 
-I'm a postgraduate student at Information Retrieval Laboratory at Shandong University, supervised by [Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm) and [Pengjie Ren](https://pengjieren.github.io/). 
+I'm a postgraduate student at Information Retrieval Laboratory at Shandong University. 
 The research direction of mine is **Knowledge-Grounded Conversation (KGC)**.
+`supervised by [Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm) and [Pengjie Ren](https://pengjieren.github.io/)
+
 
 The **paper list** that I keep updating for KGC could be get [here](https://github.com/ChuanMeng/Knowldege-Grounded-Conversation). 
 
