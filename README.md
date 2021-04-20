@@ -16,6 +16,7 @@ The **paper list** that I keep updating for KGC could be get [here](https://gith
 
 
 ### Academic Services
+* Program committee, **EMNLP 2021**
 * Program committee, **AAAI 2021**
 * Program committee, **COLING 2020**
 * External reviewer, **ICONIP 2020**
