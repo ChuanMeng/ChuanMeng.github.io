@@ -4,7 +4,7 @@ I'm a postgraduate student at Information Retrieval Laboratory at Shandong Unive
 The research direction of mine is **Knowledge-Grounded Conversation (KGC)**.
 The **paper list** that I keep updating for KGC could be get [here](https://github.com/ChuanMeng/Knowldege-Grounded-Conversation). 
 
-My overall IELTS score is 6.5 with a minimum of 6.0 in each of the subtests.
+My overall IELTS score is 6.5 with scores in subtests all greater than 6.0.
 
 ### Publications
 * **Chuan Meng**, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. **Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations**. The 44th international ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR-2021**), Online, July 11-15, 2021. (**CCF-A**)
