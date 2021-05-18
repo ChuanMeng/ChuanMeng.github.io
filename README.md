@@ -15,6 +15,7 @@ My overall IELTS score is 6.5 with scores in subtests all greater than 6.0.
 
 ### Academic Services
 * Program committee, **EMNLP 2021**
+* Program committee, **ECML/PKDD 2021**
 * Program committee, **AAAI 2021**
 * Program committee, **COLING 2020**
 * External reviewer, **ICONIP 2020**
