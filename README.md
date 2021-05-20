@@ -1,7 +1,9 @@
 ## Chuan Meng (孟 川)
 
 I'm a postgraduate student at Information Retrieval Laboratory at Shandong University. 
+Promoters [Prof. Dr. Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm) and [Prof. Dr. Pengjie Ren](https://pengjieren.github.io/).
 The research direction of mine is **Knowledge-Grounded Conversation (KGC)**.
+
 The **paper list** that I keep updating for KGC could be get [here](https://github.com/ChuanMeng/Knowldege-Grounded-Conversation). 
 
 My overall IELTS score is 6.5 with scores in subtests all greater than 6.0.
