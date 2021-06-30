@@ -30,5 +30,10 @@ The **paper list** that I keep updating for KGC could be get [here](https://gith
 * The Stars of Self-improvement of Chinese College Students, 2017 
 * National Scholarship, 2016
 
+### Education
+* xxx. 2021 - xxx: Ph.D. student, University of Amsterdam, the Netherlands, Promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/)
+* Sep. 2018 - Jun. 2021: M.E. in Computer Science and Technology, Shandong University, China, Promoters: Prof. dr. [Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm) and Prof. dr. [Pengjie Ren](https://pengjieren.github.io/)
+* Sep. 2014 - Jun. 2018.: B.E. in Electronic Commerce, Shandong Normal University, China.
+
 ### Contact
 * Email: mengchuan AT mail.sdu.edu.cn
