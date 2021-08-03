@@ -35,4 +35,4 @@ The **paper list** that I keep updating for KGC could be get [here](https://gith
 * Sep. 2014 - Jun. 2018: Bachelor of Management in Electronic Commerce, Shandong Normal University, China.
 
 ### Contact
-* Email: mengchuan AT mail.sdu.edu.cn
+* Email: chuan.meng AT outlook.com
