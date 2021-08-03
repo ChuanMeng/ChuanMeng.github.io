@@ -3,7 +3,7 @@
 I will be a PhD student in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA) in the fall of 2021, Promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/).
 
 I work on **Knowledge-Grounded Conversation (KGC)**.
-The **paper list** that I keep updating for KGC could be get [here](https://github.com/ChuanMeng/Knowldege-Grounded-Conversation). 
+The **paper list** that I keep updating for KGC could be get [here](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation). 
 
 ### Publications
 * **Chuan Meng**, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke. **Initiative-Aware Self-Supervised learning for Knowledge-Grounded Conversations**. The 44th international ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR-2021**), Online, July 11-15, 2021. (**CCF-A**) [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462824) [[code]](https://github.com/ChuanMeng/MIKe)
