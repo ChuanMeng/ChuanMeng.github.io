@@ -13,6 +13,7 @@ The **paper list** that I keep updating for KGC could be get [here](https://gith
 
 
 ### Academic Services
+* Program committee, **WSDM 2022**
 * Program committee, **EMNLP 2021**
 * Program committee, **ECML/PKDD 2021**
 * Program committee, **AAAI 2021**
