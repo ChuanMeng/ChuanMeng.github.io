@@ -1,8 +1,8 @@
 ## Chuan Meng (孟 川)
 
-I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at University of Amsterdam (UvA), Promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/).   
+I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), Promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/).   
 
-I work on **Knowledge-Grounded Conversation (KGC)**.
+I previously worked on **Knowledge-Grounded Conversation (KGC)**.
 The **paper list** that I keep updating for KGC could be get [here](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation). 
 
 ### Publications
@@ -36,4 +36,4 @@ The **paper list** that I keep updating for KGC could be get [here](https://gith
 * Sep. 2014 - Jun. 2018: Bachelor of Management in Electronic Commerce, Shandong Normal University, China.
 
 ### Contact
-* Email: chuan.meng AT outlook.com
+* Email: c.meng AT uva.nl
