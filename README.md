@@ -4,7 +4,7 @@ I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the Universit
 
 I cuttrently work on **Conversational Information Seeking (CIS)**. The **paper list** that I keep updating for CIS could be gotten [here](https://github.com/ChuanMeng/Conversational-Information-Seeking). 
 
-I previously worked on **Knowledge-Grounded Conversation (KGC)**.
+During the master's degree, I worked on **Knowledge-Grounded Conversation (KGC)**.
 The **paper list** that I keep updating for KGC could be gotten [here](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation). 
 
 ### Publications
