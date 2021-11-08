@@ -1,6 +1,6 @@
 ## Chuan Meng (孟 川)
 
-I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), Promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/).   
+I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), Promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) ([Baidu Encyclopedia](https://baike.baidu.com/item/%E9%A9%AC%E4%B8%81%C2%B7%E5%BE%B7%C2%B7%E8%8E%B1%E5%85%8B)).   
 
 I cuttrently work on **Conversational Information Seeking (CIS)**. The **paper list** that I keep updating for CIS could be gotten [here](https://github.com/ChuanMeng/Conversational-Information-Seeking). 
 
