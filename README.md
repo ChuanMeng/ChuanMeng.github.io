@@ -1,7 +1,6 @@
 ## Chuan Meng (孟 川)
 
 I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) ([Baidu Encyclopedia](https://baike.baidu.com/item/%E9%A9%AC%E4%B8%81%C2%B7%E5%BE%B7%C2%B7%E8%8E%B1%E5%85%8B)). Before joining UvA, I received my master's degree from Shandong University in 2021, promoters: Prof. dr. [Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm) and Prof. dr. [Pengjie Ren](https://pengjieren.github.io/).
-.
 
 I cuttrently work on **Conversational Information Seeking (CIS)**. The **paper list** that I keep updating for CIS could be gotten [here](https://github.com/ChuanMeng/Conversational-Information-Seeking). 
 
