@@ -15,6 +15,7 @@ The **paper list** that I keep updating for KGC could be gotten [here](https://g
 
 
 ### Academic Services
+* Program committee, **ECML/PKDD 2022**
 * Program committee, **SIGKDD 2022**
 * Program committee, **WSDM 2022**
 * Program committee, **EMNLP 2021**
