@@ -15,17 +15,17 @@ The **paper list** that I keep updating for KGC could be gotten [here](https://g
 
 
 ### Academic Services
-* Program committee, **WSDM 2023**
-* Program committee, **EMNLP 2022**
-* Program committee, **CIKM 2022**
-* Program committee, **COLING 2022**
-* Program committee, **ECML/PKDD 2022**
-* Program committee, **SIGKDD 2022**
-* Program committee, **WSDM 2022**
-* Program committee, **EMNLP 2021**
-* Program committee, **ECML/PKDD 2021**
-* Program committee, **AAAI 2021**
-* Program committee, **COLING 2020**
+* Program Committee Member, **WSDM 2023**
+* Program Committee Member, **EMNLP 2022**
+* Program Committee Member, **CIKM 2022**
+* Program Committee Member, **COLING 2022**
+* Program Committee Member, **ECML/PKDD 2022**
+* Program Committee Member, **SIGKDD 2022**
+* Program Committee Member, **WSDM 2022**
+* Program Committee Member, **EMNLP 2021**
+* Program Committee Member, **ECML/PKDD 2021**
+* Program Committee Member, **AAAI 2021**
+* Program Committee Member, **COLING 2020**
 * External reviewer, **ICONIP 2020**
 
 ### Scholarships and Awards
