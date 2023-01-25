@@ -1,10 +1,8 @@
 ## Chuan Meng (孟 川)
 
-I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). Before joining UvA, I received my master's degree from Shandong University in 2021, promoters: Prof. dr. [Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm) and Prof. dr. [Pengjie Ren](https://pengjieren.github.io/).
+I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). I cuttrently work on **Conversational Information Seeking (CIS)**. The **paper list** that I keep updating for CIS could be gotten [here](https://github.com/ChuanMeng/Conversational-Information-Seeking). 
 
-I cuttrently work on **Conversational Information Seeking (CIS)**. The **paper list** that I keep updating for CIS could be gotten [here](https://github.com/ChuanMeng/Conversational-Information-Seeking). 
-
-During the master's degree, I worked on **Knowledge-Grounded Conversation (KGC)**.
+Before joining UvA, I received my master's degree from Shandong University in 2021, promoters: Prof. dr. [Zhumin Chen](http://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm) and Prof. dr. [Pengjie Ren](https://pengjieren.github.io/). During the master's degree, I worked on **Knowledge-Grounded Conversation (KGC)**.
 The **paper list** that I keep updating for KGC could be gotten [here](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation). 
 
 ### Publications
