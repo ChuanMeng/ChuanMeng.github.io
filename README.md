@@ -32,6 +32,7 @@ The **KGC paper list** that I maintained is [here](https://github.com/ChuanMeng/
 * Program Committee Member, **COLING 2020**
 * External reviewer, **ICONIP 2020**
 
+* Journal reviewer, **Transactions on Information Systems (TOIS)**
 * Journal reviewer, **Information Processing and Management (IPM)**
 
 ### Scholarships and Awards
