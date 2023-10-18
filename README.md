@@ -18,6 +18,8 @@ The **KGC paper list** that I maintained is [here](https://github.com/ChuanMeng/
 
 
 ### Academic Services
+* Program Committee Member, **ECIR 2024**
+* Program Committee Member, **EMNLP 2023**
 * Program Committee Member, **WSDM 2024**
 * Program Committee Member, **CIKM 2023**
 * Program Committee Member, **ICTIR 2023**
