@@ -1,6 +1,6 @@
 ## Chuan Meng (孟 川)
 
-I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
+I am a Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), promoter: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and Prof. dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
 I currently work on Information Retrieval and Natural Language Processing, especially focusing on **Conversational Information Seeking (CIS)** and **Query Performance Prediction (QPP)**.  
 
 Before joining UvA, I received my master's degree from Shandong University in 2021. 
