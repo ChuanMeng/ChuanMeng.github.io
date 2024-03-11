@@ -20,6 +20,7 @@ The **KGC paper list** that I maintained is [here](https://github.com/ChuanMeng/
 
 
 ### Academic Services
+* Program Committee Member, **SIGIR 2024**
 * Program Committee Member, **WWW 2024**
 * Program Committee Member, **ECIR 2024**
 * Program Committee Member, **EMNLP 2023**
@@ -53,6 +54,8 @@ The **KGC paper list** that I maintained is [here](https://github.com/ChuanMeng/
 * Outstanding Graduates of Shandong Province, 2017
 * The Stars of Self-improvement of Chinese College Students, 2017 
 * National Scholarship, 2016
+
+###  Miscellaneous
 
 ### Contact
 * Email: c.meng AT uva.nl
