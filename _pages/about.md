@@ -73,7 +73,7 @@ Teaching & Supervision
   - Teaching assistant (Shandong University): Information Retrieval, 2020, assignment/project design and grading
   - Teaching assistant (Shandong University): Natural Language Processing, 2019, assignment/project design and grading
 
-Talks & Presentation
+Talks & Presentations
 ======
 Invited talks:
 * [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/talk_ucl_3.11.2023.pdf)
