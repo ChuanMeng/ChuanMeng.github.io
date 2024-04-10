@@ -70,25 +70,10 @@ Teaching & Supervision
 * Teaching assistant (Shandong University): Information Retrieval, 2020, assignment/project design and grading
 * Teaching assistant (Shandong University): Natural Language Processing, 2019, assignment/project design and grading
 
-Education
-======
-* Ph.D. in Artificial Intelligence, October 2021-Present   
-University of Amsterdam (UvA), The Netherlands   
-Supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/)
-
-* Master in Computer Science and Technology, September 2018-June 2021   
-Shandong University, China   
-Supervisors: Prof. dr. [Zhumin Chen](https://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm), dr. [Pengjie Ren](https://pengjieren.github.io/), dr. [Zhaochun Ren](https://renzhaochun.github.io/)   
-Master’s thesis “Research on Knowledge-Grounded Non-Task-Oriented Conversational System" [[pdf]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202202&filename=1022026198.nh&uniplatform=OVERSEA&v=zao5F6xhj_UGqk_7dH6Trupix7kRUmMIdlFW9mizxN6pYttZ3XOIcEr-6MPO-YY1)
-
 Invited Talks
 ======
 * [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/talk_ucl_3.11.2023.pdf)
 * [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953), 18 May 2023, University of Glasgow [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/talk_glasgow_22.5.2023.pdf)
-
-Resource
-======
-* I curated a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) focused on knowledge-grounded dialogue systems, garnering over 250 stars.
 
 Scholarships and Awards
 ======
@@ -99,6 +84,21 @@ Scholarships and Awards
 * Academic Scholarship for Master students of Shandong University, 2019
 * Outstanding Students of Shandong Province, 2017
 * Outstanding Graduates of Shandong Province, 2017
+
+Resource
+======
+* I curated a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) focused on knowledge-grounded dialogue systems, garnering over 250 stars.
+
+Education
+======
+* Ph.D. in Artificial Intelligence, October 2021-Present   
+University of Amsterdam (UvA), The Netherlands   
+Supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/)
+
+* Master in Computer Science and Technology, September 2018-June 2021   
+Shandong University, China   
+Supervisors: Prof. dr. [Zhumin Chen](https://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm), dr. [Pengjie Ren](https://pengjieren.github.io/), dr. [Zhaochun Ren](https://renzhaochun.github.io/)   
+Master’s thesis “Research on Knowledge-Grounded Non-Task-Oriented Conversational System" [[pdf]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202202&filename=1022026198.nh&uniplatform=OVERSEA&v=zao5F6xhj_UGqk_7dH6Trupix7kRUmMIdlFW9mizxN6pYttZ3XOIcEr-6MPO-YY1)
 
 Contact
 ======
