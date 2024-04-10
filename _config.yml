@@ -31,24 +31,24 @@ author:
   email            : "c.meng@uva.nl" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en"
-  impactstory      : https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  impactstory      :
+  orcid            : "https://orcid.org/0000-0002-1434-7596"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     :
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  bitbucket        :
+  codepen          :
+  dribbble         :
   github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           :
+  stackoverflow    :    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          :
+  facebook         :
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
