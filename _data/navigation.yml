@@ -6,17 +6,20 @@ main:
   - title: "Academic Service"
     url: /#academic-service    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching & Supervision"
+    url: /#teaching-&-supervision    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Talks & Presentation"
+    url: /#talks-&-presentation
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Scholarships and Awards"
+    url: /#scholarships-&-awards
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "Resource"
+    url: /#resource
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Education"
+    url: /#education
+
+  - title: "Contact"
+    url: /#contact

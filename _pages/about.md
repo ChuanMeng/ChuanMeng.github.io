@@ -70,12 +70,13 @@ Teaching & Supervision
 * Teaching assistant (Shandong University): Information Retrieval, 2020, assignment/project design and grading
 * Teaching assistant (Shandong University): Natural Language Processing, 2019, assignment/project design and grading
 
-Invited Talks
+Talks & Presentation
 ======
+Invited talks:
 * [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/talk_ucl_3.11.2023.pdf)
 * [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953), 18 May 2023, University of Glasgow [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/talk_glasgow_22.5.2023.pdf)
 
-Scholarships and Awards
+Scholarships & Awards
 ======
 * National Scholarship, China, 2020/2016
 * SIGIR Student Travel Grant, 2020
