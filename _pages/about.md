@@ -15,6 +15,7 @@ Interested in information retrieval (IR) and natural language processing (NLP), 
 - large language models (LLMs) and 
 - knowledge-grounded dialogue systems.  
 
+My curriculum vitae is available [here]().
 [[Google Scholar]](https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/247/5768.html) [[LinkedIn]](https://www.linkedin.com/in/chuan-meng-354066217/) [[Twitter]](https://twitter.com/ChuanMg) [[ORCID]](https://orcid.org/0000-0002-1434-7596)
 
 
@@ -81,6 +82,7 @@ Invited talks:
 
 Scholarships & Awards
 ======
+* Excellent Master's Thesis of Shandong Province, 2022
 * National Scholarship (China), 2020/2016
 * Outstanding Graduates of Shandong Province, 2021/2017
 * SIGIR Student Travel Grant, 2020
