@@ -42,8 +42,9 @@ I have authored papers published in prestigious proceedings, such as SIGIR, EMNL
 Academic Service
 ======
 
-* Program committee member, SIGIR 2024
-* Program committee member, ACL 2023
+* Program committee member
+  - SIGIR 2024
+  - ACL 2023
 * Program committee member, EMNLP 2023, 2022, 2021
 * Program committee member, CIKM 2024, 2023, 2022
 * Program committee member, WSDM 2024, 2023, 2022
