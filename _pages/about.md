@@ -61,8 +61,8 @@ Academic Service
   - Information Processing and Management (IPM)
 * External reviewer
   - ICONIP 2020
-* [IRLab website](https://irlab.science.uva.nl) webmaster, 2023-present 
-* Internal seminar chair at IRlab, 2023
+* Webmaster for the [IRLab website](https://irlab.science.uva.nl), 2023-present 
+* Chair for Internal seminars at IRLab, 2023
 
 Teaching & Supervision
 ======
