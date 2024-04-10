@@ -109,4 +109,4 @@ Contact
 ======
 * Email: c.meng AT uva.nl
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PWsDaAE4o-H19Z509pvQ-xX1Rnxl3BnebZNGapTeaEA&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=PWsDaAE4o-H19Z509pvQ-xX1Rnxl3BnebZNGapTeaEA'></script>
