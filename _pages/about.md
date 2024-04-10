@@ -81,7 +81,7 @@ Invited talks:
 
 Scholarships & Awards
 ======
-* National Scholarship, 2020/2016
+* National Scholarship (China), 2020/2016
 * Outstanding Graduates of Shandong Province, 2021/2017
 * SIGIR Student Travel Grant, 2020
 * Scholarship for Outstanding Postgraduate Cadres of Shandong University, 2020/2019
