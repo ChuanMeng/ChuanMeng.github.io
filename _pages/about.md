@@ -45,21 +45,23 @@ Academic Service
 * Program committee member
   - SIGIR 2024
   - ACL 2023
-* Program committee member, EMNLP 2023, 2022, 2021
-* Program committee member, CIKM 2024, 2023, 2022
-* Program committee member, WSDM 2024, 2023, 2022
-* Program committee member, WWW 2024
-* Program committee member, ECIR 2024
-* Program committee member, ICTIR 2023
-* Program committee member, COLING 2022
-* Program committee member, ECML/PKDD 2022
-* Program committee member, SIGKDD 2022
-* Program committee member, ECML/PKDD 2021
-* Program committee member, AAAI 2021
-* Program committee member, COLING 2020
-* External reviewer, ICONIP 2020
-* Journal reviewer, Transactions on Information Systems (TOIS)
-* Journal reviewer, Information Processing and Management (IPM)
+  - EMNLP 2023, 2022, 2021
+  - CIKM 2024, 2023, 2022
+  - WSDM 2024, 2023, 2022
+  - WWW 2024
+  - ECIR 2024
+  - ICTIR 2023
+  - COLING 2022
+  - ECML/PKDD 2022
+  - SIGKDD 2022
+  - ECML/PKDD 2021
+  - AAAI 2021
+  - COLING 2020
+* Journal reviewer, 
+  - Transactions on Information Systems (TOIS)
+  - Information Processing and Management (IPM)
+* External reviewer
+  - ICONIP 2020
 * Manager for the [IRLab website](https://irlab.science.uva.nl), 2023-present 
 * Chair for weekly talks at IRlab, 2023
 
