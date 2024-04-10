@@ -11,10 +11,10 @@ My name is Chuan Meng (孟川 in Chinese).
 I am a third-year Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
 
 Interested in information retrieval (IR) and natural language processing (NLP), with a particular focus on 
-- **conversational search**, 
-- **query performance prediction (QPP)**, 
-- **large language models (LLMs)** and 
-- **knowledge-grounded dialogue systems**.  
+- conversational search, 
+- query performance prediction (QPP), 
+- large language models (LLMs) and 
+- knowledge-grounded dialogue systems.  
 
 [[Google Scholar]](https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/247/5768.html) [[LinkedIn]](https://www.linkedin.com/in/chuan-meng-354066217/) [[Twitter]](https://twitter.com/ChuanMg)
 
@@ -66,7 +66,6 @@ Academic Service
 
 Teaching & Supervision
 ======
-
 * Tutorial organization: Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri. Query Performance Prediction: From Fundamentals to Advanced Techniques. The 46th European Conference on Information Retrieval (ECIR 2024). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/assets/slides/tutorial_ecir2024_28.3.2024.pdf)
 * Teaching assistant (University of Amsterdam): Information Retrieval (Zoekmachines), 2022--2023, project design and grading
 * Teaching assistant (Shandong University): Information Retrieval, 2020, assignment/project design and grading
@@ -74,7 +73,6 @@ Teaching & Supervision
 
 Education
 ======
-
 Ph.D. in Artificial Intelligence, October 2021-Present  
 University of Amsterdam (UvA), The Netherlands  
 Supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/)
@@ -91,10 +89,10 @@ Invited Talks
 
 Resource
 ======
-
 I curated a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) focused on knowledge-grounded dialogue systems, garnering over 250 stars.
 
-### Scholarships and Awards
+Scholarships and Awards
+======
 * National Scholarship, China, 2020/2016
 * SIGIR Student Travel Grant, 2020
 * AAAI Student Scholar Scholarship, 2019
@@ -103,5 +101,6 @@ I curated a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded
 * Outstanding Students of Shandong Province, 2017
 * Outstanding Graduates of Shandong Province, 2017
 
-### Contact
+Contact
+======
 * Email: c.meng AT uva.nl
