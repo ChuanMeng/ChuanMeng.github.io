@@ -82,12 +82,12 @@ Invited talks:
 Scholarships & Awards
 ======
 * National Scholarship, China, 2020/2016
+* Outstanding Graduates of Shandong Province, 2021/2017
 * SIGIR Student Travel Grant, 2020
 * AAAI Student Scholar Scholarship, 2019
-* Scholarship for Outstanding Postgraduate Cadres of Shandong University, 2019
+* Scholarship for Outstanding Postgraduate Cadres of Shandong University, 2020/2019
 * Academic Scholarship for Master students of Shandong University, 2019
 * Outstanding Students of Shandong Province, 2017
-* Outstanding Graduates of Shandong Province, 2017
 
 Resource
 ======
@@ -95,14 +95,14 @@ Resource
 
 Education
 ======
-* Ph.D. in Artificial Intelligence, October 2021-Present   
-University of Amsterdam (UvA), The Netherlands   
-Supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/)
+* October 2021-Present   
+  - Ph.D. in Artificial Intelligence, University of Amsterdam (UvA), The Netherlands   
+  - Supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/)
 
-* Master in Computer Science and Technology, September 2018-June 2021   
-Shandong University, China   
-Supervisors: Prof. dr. [Zhumin Chen](https://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm), dr. [Pengjie Ren](https://pengjieren.github.io/), dr. [Zhaochun Ren](https://renzhaochun.github.io/)   
-Master’s thesis “Research on Knowledge-Grounded Non-Task-Oriented Conversational System" [[pdf]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202202&filename=1022026198.nh&uniplatform=OVERSEA&v=zao5F6xhj_UGqk_7dH6Trupix7kRUmMIdlFW9mizxN6pYttZ3XOIcEr-6MPO-YY1)
+* September 2018-June 2021    
+  - Master in Computer Science and Technology, Shandong University, China   
+  - Supervisors: Prof. dr. [Zhumin Chen](https://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm), dr. [Pengjie Ren](https://pengjieren.github.io/), and dr. [Zhaochun Ren](https://renzhaochun.github.io/)   
+  - Master’s thesis “Research on Knowledge-Grounded Non-Task-Oriented Conversational System" [[pdf]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202202&filename=1022026198.nh&uniplatform=OVERSEA&v=zao5F6xhj_UGqk_7dH6Trupix7kRUmMIdlFW9mizxN6pYttZ3XOIcEr-6MPO-YY1)
 
 Contact
 ======
