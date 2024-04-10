@@ -15,7 +15,7 @@ Interested in information retrieval (IR) and natural language processing (NLP), 
 - large language models (LLMs) and 
 - knowledge-grounded dialogue systems.  
 
-My curriculum vitae is available [here]().
+My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chuan_Meng.pdf).
 [[Google Scholar]](https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/247/5768.html) [[LinkedIn]](https://www.linkedin.com/in/chuan-meng-354066217/) [[Twitter]](https://twitter.com/ChuanMg) [[ORCID]](https://orcid.org/0000-0002-1434-7596)
 
 
@@ -68,7 +68,7 @@ Academic Service
 Teaching & Supervision
 ======
 * Tutorial organization: 
-  - Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri. Query Performance Prediction: From Fundamentals to Advanced Techniques. The 46th European Conference on Information Retrieval (ECIR 2024). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/tutorial_ecir2024_28.3.2024.pdf)
+  - Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri. Query Performance Prediction: From Fundamentals to Advanced Techniques. The 46th European Conference on Information Retrieval (ECIR 2024). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
 * Teaching assistant: 
   - Information Retrieval, 2022--2023, University of Amsterdam; project design and grading
   - Information Retrieval, 2020, Shandong University; assignment/project design and grading
@@ -77,8 +77,8 @@ Teaching & Supervision
 Talks & Presentations
 ======
 Invited talks:
-* [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/talk_ucl_3.11.2023.pdf)
-* [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953), 18 May 2023, University of Glasgow [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/talk_glasgow_22.5.2023.pdf)
+* [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://chuanmeng.github.io/files/slides/talk_ucl_3.11.2023.pdf)
+* [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953), 18 May 2023, University of Glasgow [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_22.5.2023.pdf)
 
 Scholarships & Awards
 ======
