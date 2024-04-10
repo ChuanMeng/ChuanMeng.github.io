@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuan Meng"
+title: "Chuan Meng (孟川 in Chinese)"
 author_profile: true
 redirect_from: 
   - /about/
