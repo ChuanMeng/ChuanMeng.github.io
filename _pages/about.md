@@ -52,9 +52,8 @@ Academic Service
   - ECIR 2024
   - ICTIR 2023
   - COLING 2022
-  - ECML/PKDD 2022
+  - ECML/PKDD 2022, 2021
   - SIGKDD 2022
-  - ECML/PKDD 2021
   - AAAI 2021
   - COLING 2020
 * Journal reviewer, 
