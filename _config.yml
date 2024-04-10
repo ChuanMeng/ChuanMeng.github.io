@@ -34,7 +34,7 @@ author:
   arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en"
   impactstory      :
-  orcid            : "https://orcid.org/0000-0002-1434-7596"
+  orcid            :
   pubmed           :
   researchgate     :
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Chuan Meng
+  linkedin         : "Chuan Meng"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
