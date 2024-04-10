@@ -35,14 +35,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en"
   impactstory      :
   orcid            : "https://orcid.org/0000-0002-1434-7596"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     :
 
   # Repositories and software development
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "academicpages"
+  github           : "ChuanMeng"
   kaggle           :
   stackoverflow    :    
 
