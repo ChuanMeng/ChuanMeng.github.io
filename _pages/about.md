@@ -68,10 +68,11 @@ Academic Service
 Teaching & Supervision
 ======
 * Tutorial organization: 
- - Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri. Query Performance Prediction: From Fundamentals to Advanced Techniques. The 46th European Conference on Information Retrieval (ECIR 2024). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/tutorial_ecir2024_28.3.2024.pdf)
-* Teaching assistant (University of Amsterdam): Information Retrieval (Zoekmachines), 2022--2023, project design and grading
-* Teaching assistant (Shandong University): Information Retrieval, 2020, assignment/project design and grading
-* Teaching assistant (Shandong University): Natural Language Processing, 2019, assignment/project design and grading
+  - Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri. Query Performance Prediction: From Fundamentals to Advanced Techniques. The 46th European Conference on Information Retrieval (ECIR 2024). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://github.com/ChuanMeng/ChuanMeng.github.io/blob/master/files/slides/tutorial_ecir2024_28.3.2024.pdf)
+* Teaching assistant: 
+  - Information Retrieval (Zoekmachines), 2022--2023, project design and grading
+  - Teaching assistant (Shandong University): Information Retrieval, 2020, assignment/project design and grading
+  - Teaching assistant (Shandong University): Natural Language Processing, 2019, assignment/project design and grading
 
 Talks & Presentation
 ======
