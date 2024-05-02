@@ -71,9 +71,11 @@ Teaching & Supervision
 * Tutorial organization: 
   - Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri. Query Performance Prediction: From Fundamentals to Advanced Techniques. The 46th European Conference on Information Retrieval (ECIR 2024). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
 * Teaching assistant: 
-  - Information Retrieval, 2022--2023, University of Amsterdam; project design and grading
+  - Information Retrieval, 2023, University of Amsterdam; project design and grading
+  - Information Retrieval, 2022, University of Amsterdam; project design and grading
   - Information Retrieval, 2020, Shandong University; assignment/project design and grading
   - Natural Language Processing, 2019, Shandong University; assignment/project design and grading
+* PhD mentorship (Research-oriented): Lili Lu, Università della Svizzera italiana (USI), with Prof. dr. \href{https://search.usi.ch/en/people/4f0dd874bbd63c00938825fae1843200/crestani-fabio}{Fabio Crestani}
 
 Talks & Presentations
 ======
