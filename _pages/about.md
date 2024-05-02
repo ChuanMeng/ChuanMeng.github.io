@@ -78,6 +78,7 @@ Teaching & Supervision
 Talks & Presentations
 ======
 Invited talks:
+* [Opportunities and Challenges of LLMs in Information Retrieval], 4 Apr 2024, Amazon (Seattle) (inviter: Shervin Malmasi, applied Science Manager at Amazon) [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_17.4.2024.pdf)
 * [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://chuanmeng.github.io/files/slides/talk_ucl_3.11.2023.pdf)
 * [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953), 18 May 2023, University of Glasgow [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_22.5.2023.pdf)
 
