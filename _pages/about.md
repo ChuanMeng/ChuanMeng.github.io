@@ -23,7 +23,7 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of April 2024, I have 176 citations (Google Scholar) with an H-index of 5.
+As of May 2024, I have 191 citations (Google Scholar) with an H-index of 6.
 
 I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and AAAI. 
 1. **Chuan Meng**. **Query Performance Prediction for Conversational Search and Beyond**. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2024**) (to appear).
