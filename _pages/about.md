@@ -97,6 +97,9 @@ Scholarships & Awards
 
 Resource
 ======
+* I maintain a code repository for fine-tuning open-source LLMs to generate relevance judgments.
+* I maintain a code repository, offering the implementation of a comprehensive set of ranked list truncation methods.
+* I maintain a code repository, offering the implementation of a comprehensive set of query performance prediction (QPP) methods in a unified Python/Pytorch framework.
 * I curated a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) focused on knowledge-grounded dialogue systems, garnering over 250 stars.
 
 Education
