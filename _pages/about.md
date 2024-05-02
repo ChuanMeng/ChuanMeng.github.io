@@ -80,7 +80,7 @@ Teaching & Supervision
 Talks & Presentations
 ======
 Invited talks:
-* Opportunities and Challenges of LLMs in Information Retrieval, 4 Apr 2024, Amazon (Seattle) (inviter: Shervin Malmasi, applied Science Manager at Amazon) [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_17.4.2024.pdf)
+* Opportunities and Challenges of LLMs in Information Retrieval, 4 Apr 2024, Amazon (Seattle) (host: Shervin Malmasi, applied Science Manager at Amazon) [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_17.4.2024.pdf)
 * [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://chuanmeng.github.io/files/slides/talk_ucl_3.11.2023.pdf)
 * [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953), 18 May 2023, University of Glasgow [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_22.5.2023.pdf)
 
@@ -97,9 +97,9 @@ Scholarships & Awards
 
 Resource
 ======
-* I maintain a code repository for fine-tuning open-source LLMs to generate relevance judgments.
-* I maintain a code repository, offering the implementation of a comprehensive set of ranked list truncation methods.
-* I maintain a code repository, offering the implementation of a comprehensive set of query performance prediction (QPP) methods in a unified Python/Pytorch framework.
+* I curate a [code repository](https://github.com/ChuanMeng/QPP-GenRE) with over 300 visitors, providing scripts for fine-tuning open-source LLMs to generate relevance judgments.
+* I curate a [code repository](https://github.com/ChuanMeng/QPP4CS) with over 1,500 visitors, providing a comprehensive implementation of various query performance prediction (QPP) methods within a unified Python/PyTorch framework.
+* I curate a [code repository](https://github.com/ChuanMeng/RLT4Reranking) that offers a comprehensive range of ranked list truncation methods.
 * I curated a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) focused on knowledge-grounded dialogue systems, garnering over 250 stars.
 
 Education
