@@ -75,7 +75,7 @@ Teaching & Supervision
   - Information Retrieval, 2022, University of Amsterdam; project design and grading
   - Information Retrieval, 2020, Shandong University; assignment/project design and grading
   - Natural Language Processing, 2019, Shandong University; assignment/project design and grading
-* PhD mentorship (Research-oriented): Lili Lu, Università della Svizzera italiana (USI), with Prof. dr. \href{https://search.usi.ch/en/people/4f0dd874bbd63c00938825fae1843200/crestani-fabio}{Fabio Crestani}
+* PhD mentorship (Research-oriented): Lili Lu, Università della Svizzera italiana (USI), with Prof. dr. [Fabio Crestani](https://search.usi.ch/en/people/4f0dd874bbd63c00938825fae1843200/crestani-fabio)
 
 Talks & Presentations
 ======
