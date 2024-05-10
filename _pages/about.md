@@ -97,10 +97,11 @@ Scholarships & Awards
 
 Resource
 ======
-* I curate a [code repository](https://github.com/ChuanMeng/QPP-GenRE) with over 300 visitors, providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
-* I curate a [code repository](https://github.com/ChuanMeng/QPP4CS) with over 1,500 visitors, providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
-* I curate a [code repository](https://github.com/ChuanMeng/RLT4Reranking) with over 100 visitors, offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
-* I curate a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) with over 250 stars, on knowledge-grounded dialogue systems.
+I have curated the following code resources:
+* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) with over 300 visitors, providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
+* a [code repository](https://github.com/ChuanMeng/QPP4CS) with over 1,500 visitors, providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
+* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) with over 100 visitors, offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
+* a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) with over 250 stars, on knowledge-grounded dialogue systems.
 
 I also contributed to [Pyserini](https://github.com/castorini/pyserini/blob/master/docs/release-notes/release-notes-v0.19.2.md), a Python toolkit (over 1,500 stars) for reproducible information retrieval research.
 
