@@ -95,7 +95,7 @@ Scholarships & Awards
 * Academic Scholarship for Master students of Shandong University, 2019
 * Outstanding Students of Shandong Province, 2017
 
-Resource
+Resources
 ======
 I have curated the following code resources:
 * a [code repository](https://github.com/ChuanMeng/QPP-GenRE) with over 300 visitors, providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
