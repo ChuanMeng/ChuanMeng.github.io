@@ -12,7 +12,8 @@ I am Chuan Meng ("孟川" in Chinese), a third-year Ph.D. candidate in the Infor
 Interested in information retrieval (IR) and natural language processing (NLP), with a particular focus on 
 - conversational search, 
 - query performance prediction (QPP), 
-- large language models (LLMs) and 
+- large language model (LLM)-based relevance judgment prediction,
+- large language model (LLM)-based re-ranking and 
 - knowledge-grounded dialogue systems.  
 
 My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chuan_Meng.pdf).   
