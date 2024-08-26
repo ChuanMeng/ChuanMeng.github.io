@@ -36,9 +36,12 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
 [[pdf]](https://arxiv.org/abs/2404.01012) [[code]](https://github.com/ChuanMeng/QPP-GenRE) 
 2. **Generative Retrieval with Few-shot Indexing**    
 Arian Askari<sup>#</sup>, **Chuan Meng<sup>#</sup>(co-first author)**, Mohammad Aliannejadi, Zhaochun Ren, Evangelos Kanoulas, and Suzan Verberne.  
-**Under review for EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing 
+**Under review for EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing    
 [[pdf]](https://arxiv.org/abs/2408.02152) 
-3. Arian Askari, Roxana Petcu, **Chuan Meng**, Mohammad Aliannejadi, Amin Abolghasemi, Evangelos Kanoulas, and Suzan Verberne. **Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs**. Under review for the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**). [[pdf]](https://arxiv.org/abs/2402.11633) [[code]](https://github.com/arian-askari/solid) 
+3. **Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs**    
+Arian Askari, Roxana Petcu, **Chuan Meng**, Mohammad Aliannejadi, Amin Abolghasemi, Evangelos Kanoulas, and Suzan Verberne. 
+**Under review for EMNLP 2024**: The 2024 Conference on Empirical Methods in Natural Language Processing    
+[[pdf]](https://arxiv.org/abs/2402.11633) [[code]](https://github.com/arian-askari/solid) 
 4. Zahra Abbasiantaeb, **Chuan Meng**, Leif Azzopardi, Mohammad Aliannejadi. **Can We Use Large Language Models to Fill Relevance Judgment Holes?**. The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval (LLM4Eval). [[pdf]](https://arxiv.org/abs/2405.05600)
 5. **Chuan Meng**. **Query Performance Prediction for Conversational Search and Beyond**. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2024**) [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657658).
 6. **Chuan Meng**, Negar Arabzadeh, Arian Askari, Mohammad Aliannejadi, Maarten de Rijke. **Ranked List Truncation for Large Language Model-based Re-Ranking**. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2024**). [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657864) [[code]](https://github.com/ChuanMeng/RLT4Reranking)
@@ -80,7 +83,10 @@ Academic Service
 Teaching & Supervision
 ======
 * Tutorial organization: 
-  - Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri. Query Performance Prediction: From Fundamentals to Advanced Techniques. The 46th European Conference on Information Retrieval (ECIR 2024). [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
+  - **Query Performance Prediction: From Fundamentals to Advanced Techniques**    
+    Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
+    **ECIR 2024**: The 46th European Conference on Information Retrieval   
+    [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
 * Teaching assistant: 
   - Information Retrieval, 2023, University of Amsterdam; project design and grading
   - Information Retrieval, 2022, University of Amsterdam; project design and grading
