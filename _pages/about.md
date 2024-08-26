@@ -129,7 +129,7 @@ Work experience
 ======
 * August 2024-Present  
   - Applied scientist intern at Amazon, United Kingdom   
-  - Focusing on Rufus, Amazon's generative AI-powered shopping assistant
+  - Working on Rufus, Amazon's generative AI-powered shopping assistant
   - Manager: Dr. [Gabriella Kazai](https://www.linkedin.com/in/gabriellakazai/).
 
 Contact
