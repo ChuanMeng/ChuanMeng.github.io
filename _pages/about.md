@@ -127,7 +127,7 @@ Education
 * September 2014-June 2018   
   - Bachelor in Electronic Commerce, Shandong Normal University, China
 
-Work experience
+Work Experience
 ======
 * August 2024-Present  
   - Applied scientist intern at Amazon, United Kingdom   
