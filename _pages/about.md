@@ -24,7 +24,7 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of August 2024, I have 227 citations (Google Scholar) with an H-index of 7.
+As of August 2024, I have 225 citations (Google Scholar) with an H-index of 6.
 
 I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and AAAI. 
 1. Arian Askari<sup>#</sup>, **Chuan Meng<sup>#</sup>(co-first author)**, Mohammad Aliannejadi, Zhaochun Ren, Evangelos Kanoulas, and Suzan Verberne. **Generative Retrieval with Few-shot Indexing**. Under review for The 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**). [[pdf]](https://arxiv.org/abs/2408.02152) 
@@ -54,7 +54,7 @@ Academic Service
   - CIKM 2024, 2023, 2022
   - WSDM 2025, 2024, 2023, 2022
   - The Web Conf 2025, 2024
-  - COLING 2025 2022, 2020
+  - COLING 2025, 2022, 2020
   - ECIR 2024
   - ICTIR 2023
   - ECML/PKDD 2022, 2021
@@ -101,10 +101,10 @@ Scholarships & Awards
 Resources
 ======
 I have curated the following resources:
-* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) with over 900 visitors, providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
-* a [code repository](https://github.com/ChuanMeng/QPP4CS) with over 1,900 visitors, providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
-* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) with over 400 visitors, offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
-* a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) with over 250 stars, on knowledge-grounded dialogue systems.
+* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) with over 1,100 visitors, providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
+* a [code repository](https://github.com/ChuanMeng/QPP4CS) with over 2,000 visitors, providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
+* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) with over 600 visitors, offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
+* a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) with over 260 stars, on knowledge-grounded dialogue systems.
 
 I also contributed to [Pyserini](https://github.com/castorini/pyserini/blob/master/docs/release-notes/release-notes-v0.19.2.md), a Python toolkit (over 1,600 stars) for reproducible information retrieval research.
 
@@ -118,6 +118,9 @@ Education
   - Master in Computer Science and Technology, Shandong University, China   
   - Supervisors: Prof. dr. [Zhumin Chen](https://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm), dr. [Pengjie Ren](https://pengjieren.github.io/), and dr. [Zhaochun Ren](https://renzhaochun.github.io/)   
   - Master’s thesis “Research on Knowledge-Grounded Non-Task-Oriented Conversational System" [[pdf]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202202&filename=1022026198.nh&uniplatform=OVERSEA&v=zao5F6xhj_UGqk_7dH6Trupix7kRUmMIdlFW9mizxN6pYttZ3XOIcEr-6MPO-YY1)
+
+* September 2014-June 2018   
+  - Bachelor in Electronic Commerce, Shandong Normal University, China
 
 Contact
 ======
