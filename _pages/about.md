@@ -10,7 +10,7 @@ redirect_from:
 I am Chuan Meng, a third-year Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/).
 Graduation expected in June 2025.
  
-Additionally, I am currently working as an Applied scientist intern at Amazon, working on on Rufus, Amazon’s generative AI-powered shopping assistant.
+Additionally, I am currently working as an Applied scientist intern at Amazon, working on Rufus (Amazon’s generative shopping assistant).
 
 Interested in information retrieval (IR) and natural language processing (NLP), with a particular focus on 
 - conversational search, 
