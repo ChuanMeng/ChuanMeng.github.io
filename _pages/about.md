@@ -94,7 +94,6 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
  
 Academic Service
 ======
-
 * Program committee member
   - SIGIR 2024
   - ACL 2023
