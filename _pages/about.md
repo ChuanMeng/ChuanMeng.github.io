@@ -101,7 +101,7 @@ Scholarships & Awards
 Resources
 ======
 I have curated the following resources:
-* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) with over 1,100 visitors, providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
+* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 1,100 visitors**), providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
 * a [code repository](https://github.com/ChuanMeng/QPP4CS) with over 2,000 visitors, providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
 * a [code repository](https://github.com/ChuanMeng/RLT4Reranking) with over 600 visitors, offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
 * a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) with over 260 stars, on knowledge-grounded dialogue systems.
