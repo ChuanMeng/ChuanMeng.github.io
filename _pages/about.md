@@ -30,7 +30,9 @@ Publications
 As of August 2024, I have 225 citations (Google Scholar) with an H-index of 6.
 
 I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and AAAI. 
-1. Arian Askari<sup>#</sup>, **Chuan Meng<sup>#</sup>(co-first author)**, Mohammad Aliannejadi, Zhaochun Ren, Evangelos Kanoulas, and Suzan Verberne. **Generative Retrieval with Few-shot Indexing**. Under review for The 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**). [[pdf]](https://arxiv.org/abs/2408.02152) 
+1. **Generative Retrieval with Few-shot Indexing**    
+Arian Askari<sup>#</sup>, **Chuan Meng<sup>#</sup>(co-first author)**, Mohammad Aliannejadi, Zhaochun Ren, Evangelos Kanoulas, and Suzan Verberne.  
+Under review for The 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2024**). [[pdf]](https://arxiv.org/abs/2408.02152) 
 2. Zahra Abbasiantaeb, **Chuan Meng**, Leif Azzopardi, Mohammad Aliannejadi. **Can We Use Large Language Models to Fill Relevance Judgment Holes?**. The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval (LLM4Eval). [[pdf]](https://arxiv.org/abs/2405.05600)
 3. **Chuan Meng**. **Query Performance Prediction for Conversational Search and Beyond**. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2024**) [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657658).
 4. **Chuan Meng**, Negar Arabzadeh, Arian Askari, Mohammad Aliannejadi, Maarten de Rijke. **Ranked List Truncation for Large Language Model-based Re-Ranking**. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2024**). [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657864) [[code]](https://github.com/ChuanMeng/RLT4Reranking)
