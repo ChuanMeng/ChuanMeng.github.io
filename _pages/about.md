@@ -12,11 +12,12 @@ Graduation expected in June 2025.
  
 Additionally, I am currently working as an Applied scientist intern at Amazon, working on Rufus (Amazon’s generative shopping assistant).
 
-Interested in information retrieval (IR) and natural language processing (NLP), with a particular focus on 
-- conversational search, 
+Interested in information retrieval (IR) and natural language processing (NLP) with large language models (LLMs), with a particular focus on 
+- conversational search/knowledge-grounded dialogue systems, 
 - query performance prediction (QPP), 
-- large language model (LLM)-based relevance judgment prediction, and 
-- knowledge-grounded dialogue systems.  
+- LLM-based relevance judgment prediction, 
+- LLM-based re-ranking, and
+- generative retrieval.
 
 My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chuan_Meng.pdf).   
 
