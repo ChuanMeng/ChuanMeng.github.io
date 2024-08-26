@@ -45,7 +45,7 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
 4. **Can We Use Large Language Models to Fill Relevance Judgment Holes?**      
    Zahra Abbasiantaeb, **Chuan Meng**, Leif Azzopardi, Mohammad Aliannejadi      
    **LLM4Eval**: The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval      
-   [[pdf]](https://arxiv.org/abs/2405.05600)      
+   [[pdf]](https://arxiv.org/abs/2405.05600) [[code]](https://github.com/ChuanMeng/QPP-GenRE)            
 5. **Query Performance Prediction for Conversational Search and Beyond**      
    **Chuan Meng**      
    **SIGIR 2024**: The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval      
@@ -56,7 +56,7 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
    [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657864) [[code]](https://github.com/ChuanMeng/RLT4Reranking)      
 7. **LLM-based Retrieval and Generation Pipelines for TREC Interactive Knowledge Assistance Track (iKAT) 2023**      
    Zahra Abbasiantaeb, **Chuan Meng**, David Rau, Antonis Krasakis, Hossein A. Rahmani, and Mohammad Aliannejadi      
-   **TREC 2023**: The Thirty-Second Text REtrieval Conference(**Our submitted runs ranked 1st**)      
+   **TREC 2023**: The Thirty-Second Text REtrieval Conference (**Our submitted runs ranked 1st**)      
    [[pdf]](https://trec.nist.gov/pubs/trec32/papers/IRLab-Amsterdam.K.pdf)      
 8. **Expand, Highlight, Generate: RL-driven Document Generation for Passage Reranking**          
    Arian Askari, Mohammad Aliannejadi, **Chuan Meng**, Evangelos Kanoulas, and Suzan Verberne       
@@ -65,7 +65,7 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
 9. **System Initiative Prediction for Multi-turn Conversational Information Seeking**       
    **Chuan Meng**, Mohammad Aliannejadi, and Maarten de Rijke         
    **CIKM 2023**: The 32nd ACM International Conference on Information and Knowledge Management      
-   [pdf]](https://dl.acm.org/doi/10.1145/3583780.3615070) [[code]](https://github.com/ChuanMeng/SIP)      
+   [[pdf]](https://dl.acm.org/doi/10.1145/3583780.3615070) [[code]](https://github.com/ChuanMeng/SIP)      
 10. **Query Performance Prediction: From Ad-hoc to Conversational Search**      
     **Chuan Meng**, Negar Arabzadeh, Mohammad Aliannejadi, and Maarten de Rijke       
     **SIGIR 2023**: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval        
