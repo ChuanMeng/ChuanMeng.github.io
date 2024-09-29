@@ -132,6 +132,7 @@ Teaching & Supervision
 Talks & Presentations
 ======
 Invited talks:
+* Predicting the Right Moment for System Initiative in Mixed-Initiative Conversational Search, 26 Aug 2024, Amazon (London) (host: Gabriella Kazai, principal applied scientist at Amazon) [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_26.8.2024.pdf)
 * Opportunities and Challenges of LLMs in Information Retrieval, 14 Aug 2024, Objective, Inc. (host: Pablo Mendes, co-founder & CEO at Objective, Inc.) [[slides]](https://chuanmeng.github.io/files/slides/talk_objective_14.8.2024.pdf)
 * Opportunities and Challenges of LLMs in Information Retrieval, 17 Apr 2024, Amazon (Seattle) (host: Shervin Malmasi, applied science manager at Amazon) [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_17.4.2024.pdf)
 * [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://chuanmeng.github.io/files/slides/talk_ucl_3.11.2023.pdf)
