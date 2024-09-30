@@ -13,7 +13,7 @@ Graduation expected in June 2025.
 Additionally, I am currently working as an applied scientist intern at Amazon, working on Rufus (Amazon’s generative shopping assistant).
 
 Interested in information retrieval (IR) and natural language processing (NLP) with large language models (LLMs), with a particular focus on 
-- conversational agents: conversational search, proactive agents, knowledge-grounded dialogue systems
+- conversational agents: conversational search, proactive conversational agents, knowledge-grounded dialogue systems
 - neural ranking: LLM-based re-ranking, generative retrieval
 - evaluation: query performance prediction (QPP), LLM-based relevance judgment prediction
 
@@ -150,9 +150,9 @@ Scholarships & Awards
 Resources
 ======
 I have curated the following resources:
-* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 1,100 visitors**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
-* a [code repository](https://github.com/ChuanMeng/QPP4CS) (**over 2,000 visitors**) providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
-* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) (**over 600 visitors**) offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
+* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 1,200 visitors**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
+* a [code repository](https://github.com/ChuanMeng/QPP4CS) (**over 2,200 visitors**) providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
+* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) (**over 700 visitors**) offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
 * a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) (**over 260 stars**) on knowledge-grounded dialogue systems.
 
 I also contributed to [Pyserini](https://github.com/castorini/pyserini/blob/master/docs/release-notes/release-notes-v0.19.2.md), a Python toolkit for reproducible information retrieval research.
