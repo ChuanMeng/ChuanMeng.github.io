@@ -130,11 +130,26 @@ Teaching & Supervision
 Talks & Presentations
 ======
 Invited talks:
-* Predicting the Right Moment for System Initiative in Mixed-Initiative Conversational Search, 26 Aug 2024, Amazon (London) (host: Gabriella Kazai, principal applied scientist at Amazon) [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_26.8.2024.pdf)
-* Opportunities and Challenges of LLMs in Information Retrieval, 14 Aug 2024, Objective, Inc. (host: Pablo Mendes, co-founder & CEO at Objective, Inc.) [[slides]](https://chuanmeng.github.io/files/slides/talk_objective_14.8.2024.pdf)
-* Opportunities and Challenges of LLMs in Information Retrieval, 17 Apr 2024, Amazon (Seattle) (host: Shervin Malmasi, applied science manager at Amazon) [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_17.4.2024.pdf)
-* [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop), 3 Nov 2023, University College London (UCL) [[slides]](https://chuanmeng.github.io/files/slides/talk_ucl_3.11.2023.pdf)
-* [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953), 18 May 2023, University of Glasgow [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_22.5.2023.pdf)
+* Predicting the Right Moment for System Initiative in Mixed-Initiative Conversational Search    
+  26 Aug 2024, Amazon (London)     
+  Host: Gabriella Kazai, principal applied scientist at Amazon
+  [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_26.8.2024.pdf)
+* Opportunities and Challenges of LLMs in Information Retrieval
+  14 Aug 2024, Objective, Inc.
+  Host: Pablo Mendes, co-founder & CEO at Objective, Inc.
+  [[slides]](https://chuanmeng.github.io/files/slides/talk_objective_14.8.2024.pdf)
+* Opportunities and Challenges of LLMs in Information Retrieval
+  17 Apr 2024, Amazon (Seattle)
+  Host: Shervin Malmasi, applied science manager at Amazon
+  [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_17.4.2024.pdf)
+* [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop)
+  3 Nov 2023, University College London (UCL)
+  Host: Xi Wang, lecturer at the University of Sheffield
+  [[slides]](https://chuanmeng.github.io/files/slides/talk_ucl_3.11.2023.pdf)
+* [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953)
+  18 May 2023, University of Glasgow 
+  Host: Iadh Ounis, professor at the University of Glasgow
+  [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_22.5.2023.pdf)
 
 Scholarships & Awards
 ======
