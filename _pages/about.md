@@ -142,14 +142,14 @@ Invited talks:
   17 Apr 2024, Amazon (Seattle)
   Host: Shervin Malmasi, applied science manager at Amazon
   [[slides]](https://chuanmeng.github.io/files/slides/talk_amazon_17.4.2024.pdf)
-* [System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop)
+* System Initiative Prediction and Query Performance Prediction for Conversational Information Seeking
   3 Nov 2023, University College London (UCL)
   Host: Xi Wang, lecturer at the University of Sheffield
-  [[slides]](https://chuanmeng.github.io/files/slides/talk_ucl_3.11.2023.pdf)
-* [Query Performance Prediction for Conversational Search](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953)
+  [[slides]](https://chuanmeng.github.io/files/slides/talk_ucl_3.11.2023.pdf) [[post]](https://www.linkedin.com/posts/ucl-wi-group_ucl-wi-talk-system-initiative-and-query-activity-7124768037257256960-Gcp-/?utm_source=share&utm_medium=member_desktop)
+* Query Performance Prediction for Conversational Search
   18 May 2023, University of Glasgow 
   Host: Iadh Ounis, professor at the University of Glasgow
-  [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_22.5.2023.pdf)
+  [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_22.5.2023.pdf) [[post]](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953)
 
 Scholarships & Awards
 ======
