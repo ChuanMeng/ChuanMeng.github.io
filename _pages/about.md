@@ -191,7 +191,7 @@ Work Experience
 * August 2024-Present  
   - Applied scientist intern at Amazon, United Kingdom   
   - Working on Rufus, Amazon's generative AI-powered shopping assistant
-  - Manager: Dr. [Gabriella Kazai](https://www.linkedin.com/in/gabriellakazai/). Mentor: Dr. [Francesco Tonolini](linkedin.com/in/francesco-tonolini-9b995b190).
+  - Manager: Dr. [Gabriella Kazai](https://www.linkedin.com/in/gabriellakazai/). Mentor: Dr. [Francesco Tonolini](https://www.linkedin.com/in/francesco-tonolini-9b995b190/).
 
 Contact
 ======
