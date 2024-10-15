@@ -34,11 +34,11 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
    [[pdf]](https://arxiv.org/abs/2404.01012) [[code]](https://github.com/ChuanMeng/QPP-GenRE)      
 2. **Generative Retrieval with Few-shot Indexing**       
    Arian Askari<sup>#</sup>, **Chuan Meng<sup>#</sup>(co-first author)**, Mohammad Aliannejadi, Zhaochun Ren, Evangelos Kanoulas, and Suzan Verberne      
-   **Submitted to for ARR**: ACL Rolling Review
+   **Submitted to ARR**: ACL Rolling Review
    [[pdf]](https://arxiv.org/abs/2408.02152)      
 3. **Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs**       
    Arian Askari, Roxana Petcu, **Chuan Meng**, Mohammad Aliannejadi, Amin Abolghasemi, Evangelos Kanoulas, and Suzan Verberne     
-   **Submitted to for ARR**: ACL Rolling Review 
+   **Submitted to ARR**: ACL Rolling Review 
    [[pdf]](https://arxiv.org/abs/2402.11633) [[code]](https://github.com/arian-askari/solid) 
 4. **Can We Use Large Language Models to Fill Relevance Judgment Holes?**      
    Zahra Abbasiantaeb, **Chuan Meng**, Leif Azzopardi, Mohammad Aliannejadi      
