@@ -116,6 +116,10 @@ Academic Service
 Teaching & Supervision
 ======
 * Tutorial organization: 
+  - **Query Performance Prediction: Techniques and Applications in Modern Information Retrieval**    
+    Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
+    **SIGIR-AP 2024**: The 2nd ACM SIGIR-AP conference  
+    (Will be held in Tokyo from the 9th to the 12th of December 2024)
   - **Query Performance Prediction: From Fundamentals to Advanced Techniques**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **ECIR 2024**: The 46th European Conference on Information Retrieval   
