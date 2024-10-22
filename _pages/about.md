@@ -92,6 +92,11 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
  
 Academic Service
 ======
+* Workshop organization
+  - **QPP++2025: Query Performance Prediction and its Applications in the Era of Large Language Models**    
+      **Chuan Meng**, Guglielmo Faggioli, Mohammad Aliannejadi, Nicola Ferro, and Josiane Mothe    
+      **ECIR 2025**: The 47th European Conference on Information Retrieval   
+      (Will be held in the 6th to the 10th of April 2025 in Lucca, Italy)
 * Program committee member
   - SIGIR 2024
   - ACL 2023
