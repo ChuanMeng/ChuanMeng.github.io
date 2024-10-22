@@ -130,6 +130,10 @@ Teaching & Supervision
 Talks & Presentations
 ======
 Invited talks:
+* **Opportunities and Challenges of LLMs in Information Retrieval**        
+  21 Oct 2024, University of Glasgow       
+  Host: Iadh Ounis, professor at the University of Glasgow               
+  [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_21.10.2024.pdf) [[post]](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=19698)        
 * **Predicting the Right Moment for System Initiative in Mixed-Initiative Conversational Search**        
   26 Aug 2024, Amazon (London)        
   Host: Gabriella Kazai, principal applied scientist at Amazon        
