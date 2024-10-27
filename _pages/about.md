@@ -96,7 +96,7 @@ Academic Service
   - **QPP++2025: Query Performance Prediction and its Applications in the Era of Large Language Models**    
       **Chuan Meng**, Guglielmo Faggioli, Mohammad Aliannejadi, Nicola Ferro, and Josiane Mothe    
       **ECIR 2025**: The 47th European Conference on Information Retrieval   
-      (Will be held in the 6th to the 10th of April 2025 in Lucca, Italy)
+      (Will be held from the 6th to the 10th of April 2025 in Lucca, Italy)
 * Program committee member
   - SIGIR 2024
   - ACL 2023
@@ -124,7 +124,7 @@ Teaching & Supervision
   - **Query Performance Prediction: Theory, Techniques and Applications**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **WSDM 2025**: The 18th ACM International Conference on Web Search and Data Mining  
-    (Will be held in from the 10th to the 14th of March 2025 Hannover, Germany)
+    (Will be held from the 10th to the 14th of March 2025 Hannover, Germany)
   - **Query Performance Prediction: Techniques and Applications in Modern Information Retrieval**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **SIGIR-AP 2024**: The 2nd ACM SIGIR-AP conference  
