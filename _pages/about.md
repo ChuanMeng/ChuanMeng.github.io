@@ -124,11 +124,11 @@ Teaching & Supervision
   - **Query Performance Prediction: Theory, Techniques and Applications**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **WSDM 2025**: The 18th ACM International Conference on Web Search and Data Mining  
-    (Will be held in Tokyo from the 9th to the 12th of December 2024)
+    (Will be held in from the 10th to the 14th of March 2025 Hannover, Germany)
   - **Query Performance Prediction: Techniques and Applications in Modern Information Retrieval**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **SIGIR-AP 2024**: The 2nd ACM SIGIR-AP conference  
-    (Will be held in Tokyo from the 9th to the 12th of December 2024)
+    (Will be held from the 9th to the 12th of December 2024 in Tokyo)
   - **Query Performance Prediction: From Fundamentals to Advanced Techniques**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **ECIR 2024**: The 46th European Conference on Information Retrieval   
