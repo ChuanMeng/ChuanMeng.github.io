@@ -123,15 +123,17 @@ Teaching & Supervision
 * Tutorial organization: 
   - **Query Performance Prediction: Theory, Techniques and Applications**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
-    **WSDM 2025**: The 18th ACM International Conference on Web Search and Data Mining  
-    (Will be held from the 10th to the 14th of March 2025 Hannover, Germany)
+    **WSDM 2025**: The 18th ACM International Conference on Web Search and Data Mining    
+    10th--the 14th March 2025, Hannover, Germany
   - **Query Performance Prediction: Techniques and Applications in Modern Information Retrieval**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
-    **SIGIR-AP 2024**: The 2nd ACM SIGIR-AP conference  
-    (Will be held from the 9th to the 12th of December 2024 in Tokyo)
+    **SIGIR-AP 2024**: The 2nd ACM SIGIR-AP conference    
+    9th--12th December 2024, Tokyo, Japan    
+    [[pdf]](https://dl.acm.org/doi/abs/10.1145/3673791.3698438) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_sigirap2024_9.12.2024.pdf)
   - **Query Performance Prediction: From Fundamentals to Advanced Techniques**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **ECIR 2024**: The 46th European Conference on Information Retrieval   
+    24th--28th March 2024, Glasgow, UK    
     [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
 * Teaching assistant: 
   - Information Retrieval, 2023, University of Amsterdam; project design and grading
