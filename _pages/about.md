@@ -9,7 +9,6 @@ redirect_from:
 
 I am Chuan Meng, a final-year Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/).
 Graduation expected in June 2025.
- 
 During my PhD, I worked as an Applied Scientist Intern at Amazon, working on Rufus, Amazon’s generative shopping assistant.
 
 Interested in information retrieval (IR) and natural language processing (NLP) with large language models (LLMs), with a particular focus on 
@@ -42,7 +41,7 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
    to appear      
 4. **Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs**       
    Arian Askari, Roxana Petcu, **Chuan Meng**, Mohammad Aliannejadi, Amin Abolghasemi, Evangelos Kanoulas, and Suzan Verberne     
-   **NAACL 2025**: 2025 Annual Conference of the Nations of the Americas Chapter of the Association
+   **NAACL 2025**: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association
 for Computational Linguistics 
    [[pdf]](https://arxiv.org/abs/2402.11633) [[code]](https://github.com/arian-askari/solid) 
 5. **Generative Retrieval with Few-shot Indexing**       
