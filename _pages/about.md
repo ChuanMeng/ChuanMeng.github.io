@@ -178,7 +178,7 @@ Invited talks:
 
 Administration Activities
 ======
-* [IRLab LinkedIn](https://www.linkedin.com/company/irlab-uva/) account, 2025-present
+* Manager for the [IRLab LinkedIn](https://www.linkedin.com/company/irlab-uva/) account, 2025-present
 * Webmaster for the [IRLab website](https://irlab.science.uva.nl), 2023-2024 
 * Chair for Internal seminars at IRLab, 2023
 
