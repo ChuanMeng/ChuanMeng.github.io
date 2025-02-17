@@ -106,7 +106,7 @@ Academic Service
       **ECIR 2025**: The 47th European Conference on Information Retrieval   
       [[website]](https://qppworkshop.github.io/) (Will be held from the 6th to the 10th of April 2025 in Lucca, Italy)
 * Program committee member
-  - SIGIR 2024
+  - SIGIR 2025, 2024
   - ACL 2023
   - EMNLP 2023, 2022, 2021
   - CIKM 2024, 2023, 2022
