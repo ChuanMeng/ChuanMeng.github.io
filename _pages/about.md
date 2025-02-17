@@ -123,8 +123,6 @@ Academic Service
   - Information Processing and Management (IPM)
 * External reviewer
   - ICONIP 2020
-* Webmaster for the [IRLab website](https://irlab.science.uva.nl), 2023-present 
-* Chair for Internal seminars at IRLab, 2023
 
 Teaching & Supervision
 ======
@@ -177,6 +175,12 @@ Invited talks:
   18 May 2023, University of Glasgow        
   Host: Iadh Ounis, professor at the University of Glasgow         
   [[slides]](https://chuanmeng.github.io/files/slides/talk_glasgow_22.5.2023.pdf) [[post]](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=18953)        
+
+Administration Activities
+======
+* [IRLab LinkedIn](https://www.linkedin.com/company/irlab-uva/) account, 2025-present
+* Webmaster for the [IRLab website](https://irlab.science.uva.nl), 2023-2024 
+* Chair for Internal seminars at IRLab, 2023
 
 Scholarships & Awards
 ======

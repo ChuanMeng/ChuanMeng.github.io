@@ -11,6 +11,9 @@ main:
     
   - title: "Talks & Presentations"
     url: /#talks--presentations
+
+  - title: "Administration Activities"
+    url: /#administration--activities
         
   - title: "Scholarships & Awards"
     url: /#scholarships--awards
@@ -26,3 +29,5 @@ main:
 
   - title: "Contact"
     url: /#contact
+
+
