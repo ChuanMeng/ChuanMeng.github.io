@@ -197,7 +197,10 @@ I have curated the following resources:
 * a [code repository](https://github.com/ChuanMeng/RLT4Reranking) (**over 700 visitors**) offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
 * a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) (**over 260 stars**) on knowledge-grounded dialogue systems.
 
-I also contributed to [Pyserini](https://github.com/castorini/pyserini/blob/master/docs/release-notes/release-notes-v0.19.2.md), a Python toolkit for reproducible information retrieval research.
+Also, I have contributed to key open-source toolkits in information retrieval, including:
+* [Pyserini (v0.19.2)](https://github.com/castorini/pyserini/blob/master/docs/release-notes/release-notes-v0.19.2.md), a Python toolkit for reproducible information retrieval research. 
+* [Tevatron](https://github.com/texttron/tevatron), a flexible and efficient Python toolkit for training and inference of neural retrieval models.  
+
 
 Education
 ======
