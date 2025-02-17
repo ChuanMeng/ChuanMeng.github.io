@@ -223,7 +223,7 @@ Education
 Work Experience
 ======
 * August 2024-January 2025 
-  - Applied scientist intern at Amazon, United Kingdom   
+  - Applied Scientist Intern at Amazon, United Kingdom   
   - Working on LLM-powered conversational agents
   - Manager: Dr. [Gabriella Kazai](https://www.linkedin.com/in/gabriellakazai/). Mentor: Dr. [Francesco Tonolini](https://www.linkedin.com/in/francesco-tonolini-9b995b190/).
 
