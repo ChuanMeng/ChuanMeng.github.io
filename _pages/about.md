@@ -12,9 +12,9 @@ Graduation expected in June 2025.
 During my PhD, I worked as an Applied Scientist Intern at Amazon, working on LLM-powered conversational agents.
 
 I am interested in information retrieval (IR) and natural language processing (NLP) with large language models (LLMs), with a particular focus on 
-- conversational agents: conversational search, proactive conversational agents, knowledge-grounded dialogue systems
-- neural ranking: LLM-based re-ranking, generative retrieval
-- automatic evaluation: query performance prediction (QPP), LLM-based relevance judgment prediction
+- Conversational agents: conversational search, proactive conversational agents, knowledge-grounded dialogue systems
+- Neural ranking: LLM-based re-ranking, generative retrieval
+- Automatic evaluation: query performance prediction (QPP), LLM-based relevance judgment prediction
 
 My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chuan_Meng.pdf).   
 
