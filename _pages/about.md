@@ -41,8 +41,7 @@ I have authored papers published in proceedings, such as SIGIR, EMNLP, CIKM, and
    to appear      
 4. **Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs**       
    Arian Askari, Roxana Petcu, **Chuan Meng**, Mohammad Aliannejadi, Amin Abolghasemi, Evangelos Kanoulas, and Suzan Verberne     
-   **NAACL 2025**: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association
-for Computational Linguistics 
+   **NAACL 2025**: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics     
    [[pdf]](https://arxiv.org/abs/2402.11633) [[code]](https://github.com/arian-askari/solid) 
 5. **Generative Retrieval with Few-shot Indexing**       
    Arian Askari<sup>#</sup>, **Chuan Meng<sup>#</sup>(co-first author)**, Mohammad Aliannejadi, Zhaochun Ren, Evangelos Kanoulas, and Suzan Verberne      
