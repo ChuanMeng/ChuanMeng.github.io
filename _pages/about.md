@@ -117,6 +117,7 @@ Academic Service
   - ECML/PKDD 2022, 2021
   - SIGKDD 2022
   - AAAI 2021
+* ACL Rolling Review (ARR) reviewer 2025
 * Journal reviewer, 
   - Transactions on Information Systems (TOIS)
   - Information Processing and Management (IPM)
