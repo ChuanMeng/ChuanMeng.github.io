@@ -34,7 +34,7 @@ I have authored papers published in proceedings/journals, such as SIGIR, EMNLP, 
 2. **Zero-Shot and Efficient Clarification Need Prediction in Conversational Search**       
    Lili Lu, **Chuan Meng**, Federico Ravenda, Mohammad Aliannejadi and Fabio Crestani       
     **ECIR 2025**: The 47th European Conference on Information Retrieval    
-   to appear    
+   [[pdf]](https://arxiv.org/abs/2503.00179) [[code]](https://github.com/lulili0963/Zef-CNP)    
 3. **Improving the Re-Usability of Conversational Search Test Collections**         
    Zahra Abbasiantaeb, **Chuan Meng**, Leif Azzopardi and Mohammad Aliannejadi       
    **ECIR 2025**: The 47th European Conference on Information Retrieval        
