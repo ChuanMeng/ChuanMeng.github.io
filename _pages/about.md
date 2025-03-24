@@ -125,12 +125,12 @@ Academic Service
   - ICONIP 2020
 
 Teaching & Supervision
-======
+====== 
 * Tutorial organization: 
   - **Query Performance Prediction: Theory, Techniques and Applications**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **WSDM 2025**: The 18th ACM International Conference on Web Search and Data Mining    
-    10th--the 14th March 2025, Hannover, Germany     
+    10th--the 14th March 2025, Hanover, Germany     
     [[pdf]](https://dl.acm.org/doi/10.1145/3701551.3703480) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_wsdm_3.10.2025.pdf)
   - **Query Performance Prediction: Techniques and Applications in Modern Information Retrieval**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
@@ -199,9 +199,9 @@ Scholarships & Awards
 Resources
 ======
 I have curated the following resources:
-* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 1,200 visitors**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
-* a [code repository](https://github.com/ChuanMeng/QPP4CS) (**over 2,200 visitors**) providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
-* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) (**over 700 visitors**) offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
+* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 1,900 visitors**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
+* a [code repository](https://github.com/ChuanMeng/QPP4CS) (**over 2,900 visitors**) providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
+* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) (**over 1,100 visitors**) offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
 * a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) (**over 260 stars**) on knowledge-grounded dialogue systems.
 
 Also, I have contributed to key open-source toolkits in information retrieval, including:
