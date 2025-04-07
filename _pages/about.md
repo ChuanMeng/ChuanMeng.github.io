@@ -38,11 +38,11 @@ I have authored papers published in proceedings/journals, such as SIGIR, EMNLP, 
 3. **Zero-Shot and Efficient Clarification Need Prediction in Conversational Search**       
    Lili Lu, **Chuan Meng**, Federico Ravenda, Mohammad Aliannejadi, and Fabio Crestani       
     **ECIR 2025**: The 47th European Conference on Information Retrieval    
-   [[pdf]](https://arxiv.org/abs/2503.00179) [[code]](https://github.com/lulili0963/Zef-CNP)    
+   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88708-6_25) [[code]](https://github.com/lulili0963/Zef-CNP)    
 4. **Improving the Re-Usability of Conversational Search Test Collections**         
    Zahra Abbasiantaeb, **Chuan Meng**, Leif Azzopardi and Mohammad Aliannejadi       
    **ECIR 2025**: The 47th European Conference on Information Retrieval        
-   [[pdf]](https://arxiv.org/abs/2503.09899) [[code]](https://github.com/ChuanMeng/QPP-GenRE)      
+   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88708-6_13) [[code]](https://github.com/ChuanMeng/QPP-GenRE)      
 5. **Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs**       
    Arian Askari, Roxana Petcu, **Chuan Meng**, Mohammad Aliannejadi, Amin Abolghasemi, Evangelos Kanoulas, and Suzan Verberne     
    **NAACL 2025**: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics     
@@ -100,14 +100,13 @@ I have authored papers published in proceedings/journals, such as SIGIR, EMNLP, 
     **AAAI 2020**: The Thirty-Fourth AAAI Conference on Artificial Intelligence      
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6370) [[code]](https://github.com/ChuanMeng/RefNet)      
 
- 
 Academic Service
 ======
 * Workshop organization
   - **QPP++2025: Query Performance Prediction and its Applications in the Era of Large Language Models**    
       **Chuan Meng**, Guglielmo Faggioli, Mohammad Aliannejadi, Nicola Ferro, and Josiane Mothe    
       **ECIR 2025**: The 47th European Conference on Information Retrieval   
-      [[website]](https://qppworkshop.github.io/) (Will be held from the 6th to the 10th of April 2025 in Lucca, Italy)
+      [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_49) [[website]](https://qppworkshop.github.io/) (Will be held from the 6th to the 10th of April 2025 in Lucca, Italy)
 * Program committee member
   - SIGIR 2025, 2024
   - ACL 2023
