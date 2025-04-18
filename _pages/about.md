@@ -24,7 +24,7 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of April 2025, I have 320 citations (Google Scholar) with an H-index of 11.
+As of April 2025, I have 340 citations (Google Scholar) with an H-index of 11.
 
 I have authored papers published in proceedings/journals, such as SIGIR, EMNLP, CIKM, NAACL, AAAI, ECIR, and TOIS. 
 1. **Bridging the Gap: From Ad-hoc to Proactive Search in Conversations**       
@@ -112,7 +112,7 @@ Academic Service
   - SIGIR 2025, 2024
   - ACL 2023
   - EMNLP 2023, 2022, 2021
-  - CIKM 2024, 2023, 2022
+  - CIKM 2025, 2024, 2023, 2022
   - WSDM 2025, 2024, 2023, 2022
   - The Web Conf 2025, 2024
   - COLING 2025, 2022, 2020
@@ -131,6 +131,11 @@ Academic Service
 Teaching & Supervision
 ====== 
 * Tutorial organization: 
+  - **Conversational Search: From Fundamentals to Frontiers in the LLM Era**          
+    Fengran Mo, **Chuan Meng**, Mohammad Aliannejadi, and Jian-Yun Nie     
+    **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval    
+    13th--the 17th July 2025, Padua, Italy      
+    to appear
   - **Query Performance Prediction: Theory, Techniques and Applications**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **WSDM 2025**: The 18th ACM International Conference on Web Search and Data Mining    
