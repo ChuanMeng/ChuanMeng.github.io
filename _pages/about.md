@@ -24,7 +24,7 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of April 2025, I have 340 citations (Google Scholar) with an H-index of 11.
+As of April 2025, I have 344 citations (Google Scholar) with an H-index of 12.
 
 I have authored papers published in proceedings/journals, such as SIGIR, EMNLP, CIKM, NAACL, AAAI, ECIR, and TOIS. 
 1. **Bridging the Gap: From Ad-hoc to Proactive Search in Conversations**       
