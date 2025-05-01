@@ -35,7 +35,7 @@ I have authored papers published in proceedings/journals, such as SIGIR, EMNLP, 
    **Chuan Meng**, Negar Arabzadeh, Arian Askari, Mohammad Aliannejadi, and Maarten de Rijke        
    **TOIS**: ACM Transactions on Information Systems    
    [[pdf]](https://arxiv.org/abs/2404.01012) [[code]](https://github.com/ChuanMeng/QPP-GenRE)  
-3. **Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs**       
+3. **SOLID: Self-seeding and Multi-intent Self-instructing LLMs for Generating Intent-aware Information-Seeking Dialogs**       
    Arian Askari, Roxana Petcu, **Chuan Meng**, Mohammad Aliannejadi, Amin Abolghasemi, Evangelos Kanoulas, and Suzan Verberne     
    **NAACL 2025**: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics     
    [[pdf]](https://aclanthology.org/2025.findings-naacl.357/) [[code]](https://github.com/arian-askari/solid) 
