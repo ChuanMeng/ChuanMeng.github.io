@@ -24,7 +24,7 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of April 2025, I have 346 citations (Google Scholar) with an H-index of 12.
+As of May 2025, I have 352 citations (Google Scholar) with an H-index of 12.
 
 I have authored papers published in proceedings/journals, such as SIGIR, EMNLP, CIKM, NAACL, AAAI, ECIR, and TOIS. 
 1. **Bridging the Gap: From Ad-hoc to Proactive Search in Conversations**       
@@ -117,7 +117,7 @@ Academic Service
   - The Web Conf 2025, 2024
   - COLING 2025, 2022, 2020
   - ECIR 2025, 2024
-  - ICTIR 2023
+  - ICTIR 2025, 2023
   - ECML/PKDD 2022, 2021
   - SIGKDD 2022
   - AAAI 2021
