@@ -24,10 +24,10 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of May 2025, I have 352 citations (Google Scholar) with an H-index of 12.
+As of May 2025, I have 378 citations (Google Scholar) with an H-index of 12.
 
-I have authored papers published in proceedings/journals, such as ACL, SIGIR, EMNLP, CIKM, NAACL, AAAI, ECIR, and TOIS. 
-1. **UniConv: Unifying Retrieval and Response Generation for Large Language Model in Conversation**       
+I have authored papers published in proceedings/journals, such as SIGIR, ACL, EMNLP, CIKM, NAACL, AAAI, ECIR, and TOIS. 
+1. **UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**       
    Fengran Mo, Yifan Gao, **Chuan Meng**, Xin Liu, Zhuofeng Wu, Kelong Mao, Zhengyang Wang, Pei Chen, Zheng Li, Xian Li, Bing Yin, Meng Jiang            
    **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics            
    to appear                 
