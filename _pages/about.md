@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Chuan Meng, a final-year Ph.D. candidate in the Information Retrieval Lab (IRLab) at the University of Amsterdam (UvA), supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/).
-Graduation expected in June 2025.
+I am Chuan Meng. I received the Ph.D. degree from the University of Amsterdam (UvA) in June 2025, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
+My doctoral dissertation, titled "Optimizing Agentic Workflows for Information Access", is available [here](https://pure.uva.nl/ws/files/234887966/Thesis.pdf). 
 During my PhD, I worked as an Applied Scientist Intern at Amazon, working on LLM-powered conversational agents.
 
 I am interested in information retrieval (IR) and natural language processing (NLP) with large language models (LLMs), with a particular focus on 
@@ -24,7 +24,7 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of June 2025, I have 379 citations (Google Scholar) with an H-index of 12.
+As of July 2025, I have 432 citations (Google Scholar) with an H-index of 13.
 
 I have authored papers published in proceedings/journals, such as SIGIR, ACL, EMNLP, CIKM, NAACL, AAAI, ECIR, and TOIS. 
 1. **UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**       
@@ -224,7 +224,7 @@ Also, I have contributed to key open-source toolkits in information retrieval, i
 
 Education
 ======
-* October 2021-Present   
+* October 2021-June 2025 
   - Ph.D. in Artificial Intelligence, University of Amsterdam (UvA), The Netherlands   
   - Supervisors: Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/)
 
