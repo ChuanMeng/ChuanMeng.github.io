@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chuan Meng"
+title                    : "Dr."
 title_separator          : "-"
 name                     : &name "Chuan Meng"
-description              : &description "PhD candidate at the University of Amsterdam"
+description              : &description "University of Amsterdam"
 url                      : https://chuanmeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChuanMeng/ChuanMeng.github.io"
