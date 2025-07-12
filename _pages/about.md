@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Chuan Meng. I received the Ph.D. degree from the University of Amsterdam (UvA) in June 2025, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
+I am Chuan Meng. 
+I will be joining the NLP group at the University of Edinburgh in September 2025.
+I received the Ph.D. degree from the University of Amsterdam (UvA) in June 2025, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
 My doctoral dissertation, titled "Optimizing Agentic Workflows for Information Access", is available [here](https://pure.uva.nl/ws/files/234887966/Thesis.pdf). 
 During my PhD, I worked as an Applied Scientist Intern at Amazon, working on LLM-powered conversational agents.
 
-I am interested in information retrieval (IR) and natural language processing (NLP) with large language models (LLMs), with a particular focus on 
+I have been interested in information retrieval (IR) and natural language processing (NLP) with large language models (LLMs), with a particular focus on 
 - Conversational agents: conversational search, proactive conversational agents, knowledge-grounded dialogue systems
 - Model- and data-efficient neural ranking: LLM-based re-ranking, generative retrieval, synthetic data generation
 - Automatic evaluation: query performance prediction (QPP), LLM-based relevance judgment prediction
@@ -24,13 +26,13 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of July 2025, I have 432 citations (Google Scholar) with an H-index of 13.
+As of July 2025, I have 440 citations (Google Scholar) with an H-index of 13.
 
 I have authored papers published in proceedings/journals, such as SIGIR, ACL, EMNLP, CIKM, NAACL, AAAI, ECIR, and TOIS. 
 1. **UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**       
    Fengran Mo, Yifan Gao, **Chuan Meng**, Xin Liu, Zhuofeng Wu, Kelong Mao, Zhengyang Wang, Pei Chen, Zheng Li, Xian Li, Bing Yin, Meng Jiang            
    **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics            
-   to appear                 
+   [[pdf]](https://arxiv.org/abs/2507.07030)                 
 2. **Bridging the Gap: From Ad-hoc to Proactive Search in Conversations**       
    **Chuan Meng**, Francesco Tonolini, Fengran Mo, Nikolaos Aletras, Emine Yilmaz, and Gabriella Kazai    
    **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval       
