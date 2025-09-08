@@ -245,7 +245,7 @@ Work Experience
 * August 2024-January 2025 
   - Postdoctoral researcher (research associate) at the University of Edinburgh, United Kingdom   
   - Working on agentic information access
-  - Manager: Dr. [Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html).
+  - Supervisor: Dr. [Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html).
 * August 2024-January 2025 
   - Applied Scientist Intern at Amazon, United Kingdom   
   - Working on LLM-powered conversational agents
