@@ -34,7 +34,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
 2. **UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**       
    Fengran Mo, Yifan Gao, **Chuan Meng**, Xin Liu, Zhuofeng Wu, Kelong Mao, Zhengyang Wang, Pei Chen, Zheng Li, Xian Li, Bing Yin, Meng Jiang            
    **ACL 2025**: The 63rd Annual Meeting of the Association for Computational Linguistics            
-   [[pdf]](https://arxiv.org/abs/2507.07030)                 
+   [[pdf]](https://aclanthology.org/2025.acl-long.344/)                 
 3. **Bridging the Gap: From Ad-hoc to Proactive Search in Conversations**       
    **Chuan Meng**, Francesco Tonolini, Fengran Mo, Nikolaos Aletras, Emine Yilmaz, and Gabriella Kazai    
    **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval       
