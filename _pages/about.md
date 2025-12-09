@@ -243,12 +243,12 @@ Education
 
 Work Experience
 ======
-* August 2024-January 2025 
+* September 2025 – Present
   - Postdoctoral Researcher (Research Associate) at the University of Edinburgh, United Kingdom
   - Funded by the Turing AI Acceleration Fellowship  
   - Working on agentic information access
   - Supervisor: Dr. [Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html).
-* August 2024-January 2025 
+* August 2024 – January 2025
   - Applied Scientist Intern at Amazon, United Kingdom   
   - Working on LLM-powered conversational agents
   - Manager: Dr. [Gabriella Kazai](https://www.linkedin.com/in/gabriellakazai/). Mentor: Dr. [Francesco Tonolini](https://www.linkedin.com/in/francesco-tonolini-9b995b190/).
