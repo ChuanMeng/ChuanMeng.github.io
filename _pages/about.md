@@ -34,7 +34,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
    [[pdf]](https://arxiv.org/abs/2601.04455) [[code]](https://github.com/ChuanMeng/reranker-as-judge)      
 2. **Generative Retrieval with Few-shot Indexing**       
    Arian Askari<sup>#</sup>, **Chuan Meng<sup>#</sup>(co-first author)**, Mohammad Aliannejadi, Zhaochun Ren, Evangelos Kanoulas, and Suzan Verberne      
-   **ECIR 2026**: The 48th European Conference on Information Retrieval
+   **ECIR 2026**: The 48th European Conference on Information Retrieval       
    [[pdf]](https://arxiv.org/abs/2408.02152) 
 3. **Towards Adaptive Personalized Conversational Information Retrieval**       
    Fengran Mo, Yuchen Hui, Yuxing Tian, Zhaoxuan Tan, **Chuan Meng**, Zhan Su, Kaiyu Huang, Jian-Yun Nie              
