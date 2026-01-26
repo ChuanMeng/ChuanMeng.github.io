@@ -25,7 +25,7 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of January 2026, I have 550+ citations (Google Scholar) with an H-index of 13.
+As of January 2026, I have 600+ citations (Google Scholar) with an H-index of 13.
 
 I have authored papers published in proceedings/journals, such as ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI, ECIR, and TOIS.
 1. **Re-Rankers as Relevance Judges**       
