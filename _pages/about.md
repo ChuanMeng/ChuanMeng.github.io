@@ -34,7 +34,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
    Under review          
    [[pdf]](http://arxiv.org/abs/2602.21456) [[code]](https://github.com/ChuanMeng/text-ranking-in-deep-research)   
 2. **Re-Rankers as Relevance Judges**       
-   **Chuan Meng**, Jiqun Liu, Mohammad Aliannejadi, Fengran Mo, and Maarten de Rijke     
+   **Chuan Meng**, Jiqun Liu, Mohammad Aliannejadi, Fengran Mo, Jeff Dalton, and Maarten de Rijke     
    Under review     
    [[pdf]](https://arxiv.org/abs/2601.04455) [[code]](https://github.com/ChuanMeng/reranker-as-judge)         
 3. **Generative Retrieval with Few-shot Indexing**       
