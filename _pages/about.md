@@ -87,7 +87,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
    [[pdf]](https://trec.nist.gov/pubs/trec32/papers/IRLab-Amsterdam.K.pdf)      
 15. **Expand, Highlight, Generate: RL-driven Document Generation for Passage Reranking**          
    Arian Askari, Mohammad Aliannejadi, **Chuan Meng**, Evangelos Kanoulas, and Suzan Verberne       
-   **EMNLP 2023 (main conference)**: The 2023 Conference on Empirical Methods in Natural Language Processing             
+   **EMNLP 2023**: The 2023 Conference on Empirical Methods in Natural Language Processing             
    [[pdf]](https://aclanthology.org/2023.emnlp-main.623/)      
 16. **System Initiative Prediction for Multi-turn Conversational Information Seeking**       
    **Chuan Meng**, Mohammad Aliannejadi, and Maarten de Rijke         
