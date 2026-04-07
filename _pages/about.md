@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am Chuan Meng, a postdoctoral researcher at [the Natural Language Processing Group at the University of Edinburgh (EdinburghNLP)](https://edinburghnlp.inf.ed.ac.uk/), working with [Dr. Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html).
-My position is funded by the Turing AI Acceleration Fellowship.
+My position is funded by the Turing AI Fellowships.
 
 I received my Ph.D. degree from the University of Amsterdam (UvA) in June 2025, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
 My doctoral dissertation, titled "Optimizing Agentic Workflows for Information Access", is available [here](https://pure.uva.nl/ws/files/234887966/Thesis.pdf). 
@@ -25,13 +25,13 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Publications
 ======
 
-As of March 2026, I have 650+ citations (Google Scholar) with an H-index of 16.
+As of April 2026, I have 650+ citations (Google Scholar) with an H-index of 16.
 
 I have authored papers published in proceedings/journals, such as ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI, ECIR, and TOIS.
 
 1. **Revisiting Text Ranking in Deep Research**            
-   **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton        
-   Under review          
+   **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton         
+   **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval                  
    [[pdf]](http://arxiv.org/abs/2602.21456) [[code]](https://github.com/ChuanMeng/text-ranking-in-deep-research)   
 2. **Re-Rankers as Relevance Judges**       
    **Chuan Meng**, Jiqun Liu, Mohammad Aliannejadi, Fengran Mo, Jeff Dalton, and Maarten de Rijke     
