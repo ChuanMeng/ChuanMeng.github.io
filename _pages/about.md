@@ -32,7 +32,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
 1. **Revisiting Text Ranking in Deep Research**            
    **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton         
    **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval                  
-   [[pdf]](http://arxiv.org/abs/2602.21456) [[code]](https://github.com/ChuanMeng/text-ranking-in-deep-research)   
+   [[pdf]](https://dl.acm.org/doi/10.1145/3805712.3808557) [[code]](https://github.com/ChuanMeng/text-ranking-in-deep-research)   
 2. **Re-Rankers as Relevance Judges**       
    **Chuan Meng**, Jiqun Liu, Mohammad Aliannejadi, Fengran Mo, Jeff Dalton, and Maarten de Rijke     
    Under review     
