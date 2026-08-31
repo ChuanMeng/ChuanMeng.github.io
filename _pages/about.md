@@ -124,7 +124,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
 
 Academic Service
 ======
-So far, I have served on the program committees of 12 major venues, and as a reviewer for 3 journals.
+So far, I have served on the program committees of 13 major venues, and as a reviewer for 3 journals.
 
 * Workshop organization
   - **QPP++2025: Query Performance Prediction and its Applications in the Era of Large Language Models**    
@@ -142,6 +142,7 @@ So far, I have served on the program committees of 12 major venues, and as a rev
   - WSDM 2026, 2025, 2024, 2023, 2022
   - The Web Conf 2026, 2025, 2024
   - COLING 2025, 2022, 2020
+  - SIGIR-AP 2026
   - ECIR 2026, 2025, 2024
   - ICTIR 2025, 2023
   - ECML/PKDD 2022, 2021
