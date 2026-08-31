@@ -19,7 +19,7 @@ I have been interested in information retrieval (IR) and natural language proces
 
 My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chuan_Meng.pdf).   
 
-[[Google Scholar]](https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/247/5768.html) [[LinkedIn]](https://www.linkedin.com/in/chuan-meng-354066217/) [[Twitter]](https://twitter.com/ChuanMg) [[ORCID]](https://orcid.org/0000-0002-1434-7596)
+[[Google Scholar]](https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/247/5768.html) [[LinkedIn]](https://www.linkedin.com/in/chuan-meng-354066217/) [[X (formerly Twitter)]](https://twitter.com/ChuanMg) [[ORCID]](https://orcid.org/0000-0002-1434-7596)
 
 
 Publications
