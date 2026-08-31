@@ -130,6 +130,8 @@ Academic Service
       **ECIR 2025**: The 47th European Conference on Information Retrieval   
       6th--10th April 2025, Lucca, Italy    
       [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_49) [[website]](https://qppworkshop.github.io/)   
+* Senior Program committee member
+  - CIKM 2026
 * Program committee member
   - SIGIR 2026, 2025, 2024
   - ACL 2023
@@ -146,16 +148,16 @@ Academic Service
 * ACL Rolling Review (ARR) reviewer 2025
 * Journal reviewer, 
   - Transactions on Information Systems (TOIS)
-  - Information Processing and Management (IPM)
-* External reviewer
-  - ICONIP 2020
+  - Pattern Recognition
+  - Information Processing and Management (IP&M)
+* arXiv, Moderator (cs.IR), February 2026-present
 
 Teaching & Supervision
 ====== 
 * Tutorial organization: 
   - **Agentic Search: Foundations, Optimization, and Long-Horizons**          
     **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton     
-    **CIKM 2026**: The 35th ACM International Conference on Information and Knowledge Management (accepted tutorial)    
+    **CIKM 2026**: The 35th ACM International Conference on Information and Knowledge Management (upcoming)    
     7th November 2026, Rome, Italy       
   - **Conversational Search: From Fundamentals to Frontiers in the Age of Agents**          
     **Chuan Meng**, Fengran Mo, Mohammad Aliannejadi, Jeff Dalton, and Jian-Yun Nie     
@@ -187,17 +189,34 @@ Teaching & Supervision
     **ECIR 2024**: The 46th European Conference on Information Retrieval   
     24th--28th March 2024, Glasgow, UK    
     [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
-* Teaching assistant: 
-  - Information Retrieval, 2023, University of Amsterdam; project design and grading
-  - Information Retrieval, 2022, University of Amsterdam; project design and grading
-  - Information Retrieval, 2020, Shandong University; assignment/project design and grading
-  - Natural Language Processing, 2019, Shandong University; assignment/project design and grading
-* PhD mentorship (Research-oriented): 
+* Lecturing:
+  - **Recommender Systems** (course lecture, about **50** students), University of Amsterdam, June 2025    
+    Course design and delivery of the lecture "Sequential and Large Language Model-based Recommender Systems"    
+    [[slides]](https://chuanmeng.github.io/files/slides/recsys_2025_lecture_3_david_chuan.pdf)
+  - **Conversational Search: From Fundamentals to Frontiers in the LLM Era** (guest lecture, about **40** undergraduate students), University of Massachusetts Amherst, October 2025    
+    Host: [Razieh Negin Rahimi](https://people.cs.umass.edu/~rahimi/)    
+    [[slides]](https://chuanmeng.github.io/files/slides/lecture_umass_convsearch_10.2025.pdf)
+* Teaching assistance:
+  - **Information Retrieval** (about **60** students), University of Amsterdam, 2022-2023; project design and grading
+  - **Information Retrieval** (about **60** students), Shandong University, 2020; assignment and project design, and grading
+  - **Natural Language Processing** (about **70** students), Shandong University, 2019; assignment and project design, and grading
+* PhD mentoring: 
+  - [Paul Owoicho](https://www.linkedin.com/in/paulowoicho/), The University of Edinburgh, with Dr. [Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html)
   - [Lili Lu](https://lulili0963.github.io/), Università della Svizzera italiana (USI), with Prof. dr. [Fabio Crestani](https://search.usi.ch/en/people/4f0dd874bbd63c00938825fae1843200/crestani-fabio)
 
 Talks & Presentations
 ======
 Invited talks:
+* **The Role of Information Retrieval in Deep Research**        
+  16 Aug 2026, Young Scholars Forum at the 32nd China Conference on Information Retrieval (CCIR 2026)        
+* **The Role of Information Retrieval in Deep Research**        
+  24 Jun 2026, King's College London (KCL)        
+  Host: [Yulan He](https://www.kcl.ac.uk/people/yulan-he), professor at King's College London        
+* **Revisiting Text Ranking in Deep Research**        
+  5 Mar 2026, University of Sheffield        
+  Host: [Nikolaos Aletras](https://sheffield.ac.uk/cs/people/academic/nikos-aletras), professor at the University of Sheffield        
+* **Revisiting Text Ranking in Deep Research**        
+  3 Mar 2026, the Royal Society        
 * **Opportunities and Challenges of LLMs in Information Retrieval**        
   21 Oct 2024, University of Glasgow       
   Host: Iadh Ounis, professor at the University of Glasgow               
@@ -244,10 +263,12 @@ Scholarships & Awards
 Resources
 ======
 I have curated the following resources:
-* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 1,900 visitors**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
-* a [code repository](https://github.com/ChuanMeng/QPP4CS) (**over 2,900 visitors**) providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
-* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) (**over 1,100 visitors**) offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
-* a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) (**over 260 stars**) on knowledge-grounded dialogue systems.
+* a [resource repository](https://huggingface.co/grill-lab) on Hugging Face ([**over 14,000 downloads**](https://github.com/ChuanMeng/text-ranking-in-deep-research#resources-released)) providing the passage corpus, pre-built retriever indexes, and agent execution trajectories for deep research.
+* a [code repository](https://github.com/ChuanMeng/text-ranking-in-deep-research) (**over 200 stars**) providing scripts for text ranking in deep research, within a Python/PyTorch framework
+* a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 100 stars**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
+* a [code repository](https://github.com/ChuanMeng/QPP4CS) (**over 110 stars**) providing a comprehensive implementation of query performance prediction (QPP) methods, within a unified Python/PyTorch framework.
+* a [code repository](https://github.com/ChuanMeng/RLT4Reranking) (**over 50 stars**) offering a comprehensive implementation of ranked list truncation methods, within a unified Python/PyTorch framework.
+* a [paper reading list](https://github.com/ChuanMeng/Knowledge-Grounded-Conversation) (**over 250 stars**) on knowledge-grounded dialogue systems.
 
 Also, I have contributed to key open-source toolkits in information retrieval, including:
 * [Pyserini (v0.19.2)](https://github.com/castorini/pyserini/blob/master/docs/release-notes/release-notes-v0.19.2.md), a Python toolkit for reproducible information retrieval research. 
@@ -264,9 +285,6 @@ Education
   - Master in Computer Science and Technology, Shandong University, China   
   - Supervisors: Prof. dr. [Zhumin Chen](https://ir.sdu.edu.cn/~zhuminchen/~zhuminchen_en.htm), dr. [Pengjie Ren](https://pengjieren.github.io/), and dr. [Zhaochun Ren](https://renzhaochun.github.io/)   
   - Master’s thesis “Research on Knowledge-Grounded Non-Task-Oriented Conversational System" [[pdf]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202202&filename=1022026198.nh&uniplatform=OVERSEA&v=zao5F6xhj_UGqk_7dH6Trupix7kRUmMIdlFW9mizxN6pYttZ3XOIcEr-6MPO-YY1)
-
-* September 2014-June 2018   
-  - Bachelor in Electronic Commerce, Shandong Normal University, China
 
 Work Experience
 ======
