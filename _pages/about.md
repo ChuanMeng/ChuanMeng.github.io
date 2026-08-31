@@ -10,7 +10,7 @@ redirect_from:
 I am Chuan Meng, a postdoctoral researcher at [the Natural Language Processing Group at the University of Edinburgh (EdinburghNLP)](https://edinburghnlp.inf.ed.ac.uk/), working with [Dr. Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html).
 My position is funded by the Turing AI Fellowships.
 
-I received my Ph.D. degree from the University of Amsterdam (UvA) in June 2025, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
+I received my Ph.D. degree from the University of Amsterdam (UvA) in June 2025, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) (ACM Fellow) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
 My doctoral dissertation, titled "Optimizing Agentic Workflows for Information Access", is available [here](https://pure.uva.nl/ws/files/234887966/Thesis.pdf). 
 During my PhD, I worked as an Applied Scientist Intern at Amazon, working on LLM-powered conversational agents.
 
@@ -294,12 +294,11 @@ Work Experience
 ======
 * September 2025 – Present
   - Postdoctoral Researcher (Research Associate) at the University of Edinburgh, United Kingdom
-  - Funded by the Turing AI Acceleration Fellowship  
-  - Working on agentic information access
+  - Funded by Turing AI Fellowships  
   - Supervisor: Dr. [Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html).
 * August 2024 – January 2025
   - Applied Scientist Intern at Amazon, United Kingdom   
-  - Working on LLM-powered conversational agents
+  - Working on proactive conversational agents
   - Manager: Dr. [Gabriella Kazai](https://www.linkedin.com/in/gabriellakazai/). Mentor: Dr. [Francesco Tonolini](https://www.linkedin.com/in/francesco-tonolini-9b995b190/).
 
 Contact
