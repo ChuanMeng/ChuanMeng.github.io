@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chuan Meng, a postdoctoral researcher at [the Natural Language Processing Group at the University of Edinburgh (EdinburghNLP)](https://edinburghnlp.inf.ed.ac.uk/), working with [Dr. Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html).
+I am Chuan Meng, a postdoctoral researcher at [EdinburghNLP](https://edinburghnlp.inf.ed.ac.uk/), working with [Dr. Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html).
 My position is funded by the Turing AI Fellowships.
 
 I received my Ph.D. degree from the University of Amsterdam (UvA) in June 2025, supervised by Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/bio/) (ACM Fellow) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/). 
