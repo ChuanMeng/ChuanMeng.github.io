@@ -14,7 +14,7 @@ I received my Ph.D. degree from the University of Amsterdam (UvA) in June 2025, 
 My doctoral dissertation, titled "Optimizing Agentic Workflows for Information Access", is available [here](https://pure.uva.nl/ws/files/234887966/Thesis.pdf). 
 During my PhD, I worked as an Applied Scientist Intern at Amazon, working on LLM-powered conversational agents.
 
-I have been interested in information retrieval (IR) and natural language processing (NLP) with large language models (LLMs), with a particular focus on agentic information access.
+My research lies at the intersection of agentic AI, information retrieval (IR), and natural language processing (NLP), with a focus on **cost-effective long-horizon agents for information seeking**, such as deep research agents.
 
 
 My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chuan_Meng.pdf).   
@@ -124,7 +124,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
 
 Academic Service
 ======
-So far, I have served on the program committees of 13 major venues, and as a reviewer for 3 journals.
+So far, I have organized a workshop, served on the program committees of 13 major venues (including as a senior program committee member), reviewed for 3 journals, and served as a moderator for arXiv.
 
 * Workshop organization
   - **QPP++2025: Query Performance Prediction and its Applications in the Era of Large Language Models**    
@@ -214,6 +214,7 @@ So far, I have delivered 10 invited talks at universities and industrial researc
 Invited talks:
 * **The Role of Information Retrieval in Deep Research**        
   16 Aug 2026, Young Scholars Forum at the 32nd China Conference on Information Retrieval (CCIR 2026)        
+  Host: Information Retrieval Technical Committee, Chinese Information Processing Society of China        
 * **The Role of Information Retrieval in Deep Research**        
   24 Jun 2026, King's College London (KCL)        
   Host: [Yulan He](https://www.kcl.ac.uk/people/yulan-he), professor at King's College London        
@@ -249,10 +250,10 @@ Invited talks:
 
 Administration Activities
 ======
-* Manager for the [IRLab LinkedIn](https://www.linkedin.com/company/irlab-uva/) account, 2025
-* Webmaster for the [IRLab website](https://irlab.science.uva.nl), 2023-2024 
-* Chair for Internal seminars at IRLab, 2023
-* Lead organizer of the IRLab BBQ event, 2023
+* Manager for the [LinkedIn account](https://www.linkedin.com/company/irlab-uva/) of IRLab (Information Retrieval Lab, University of Amsterdam), 2025
+* Webmaster for the [IRLab website](https://irlab.science.uva.nl), University of Amsterdam, 2023-2024 
+* Chair for internal seminars at IRLab, University of Amsterdam, 2023
+* Lead organizer of the IRLab BBQ event, University of Amsterdam, 2023
 
 Scholarships & Awards
 ======
