@@ -27,7 +27,7 @@ Selected Publications
 
 As of September 2026, I have published **30+** papers, with 800+ citations (Google Scholar) and an h-index of 17. I have published at venues such as SIGIR, ACL, EMNLP, AAAI, NAACL, CIKM, ECIR, and TOIS.
 
-According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf-ranks/), **11** of my papers are at CORE A* venues and **5** at CORE A venues. My journal articles are in ACM TOIS (impact factor 11.2), ranked 7th of 266 journals in Computer Science, Information Systems in the Journal Citation Reports.
+According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf-ranks/), **11** of my papers are at CORE A* venues and **5** at CORE A venues.
 
 1. **Revisiting Text Ranking in Deep Research**            
    **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton         
@@ -269,7 +269,9 @@ Awards & Scholarships
 
 Resources
 ======
-My open-source code and data have attracted over **800** GitHub stars across all my repositories and over **14,000** Hugging Face downloads, and my code has been reused by companies including Snowflake and Dataminr. Representative resources I have curated include:
+My open-source code and data have attracted over **800** GitHub stars across all my repositories and over **14,000** Hugging Face downloads, and my code has been reused by companies including Snowflake and Dataminr.
+
+Representative resources I have curated include:
 * a [resource repository](https://huggingface.co/grill-lab) on Hugging Face ([**over 14,000 downloads**](https://github.com/ChuanMeng/text-ranking-in-deep-research#resources-released)) providing the passage corpus, pre-built retriever indexes, and agent execution trajectories for deep research.
 * a [code repository](https://github.com/ChuanMeng/text-ranking-in-deep-research) (**over 200 stars**) providing scripts for text ranking in deep research, within a Python/PyTorch framework
 * a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 100 stars**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
