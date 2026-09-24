@@ -35,7 +35,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
    [[pdf]](https://dl.acm.org/doi/10.1145/3805712.3808557) [[code]](https://github.com/ChuanMeng/text-ranking-in-deep-research)   
 2. **Agent and Tool Search: Foundations, Techniques, and Open Challenges**       
    Bin Wu, Hossein A. Rahmani, To Eun Kim, Arastun Mammadli, Shuofei Qiao, Xiao Fu, Varsha Ramineni, Xiaoyu Zhang, **Chuan Meng**, George Drayson, Anu Chowdhury, Jerome Ramos, Abdine Maiga, and Emine Yilmaz     
-   Preprint, 2026     
+   Under review     
    [[pdf]](https://openreview.net/pdf?id=lk32qfuE5U)     
 3. **Re-Rankers as Relevance Judges**       
    **Chuan Meng**, Jiqun Liu, Mohammad Aliannejadi, Fengran Mo, Jeff Dalton, and Maarten de Rijke     
@@ -134,7 +134,7 @@ So far, I have organized a workshop, served on the program committees of 13 majo
   - **QPP++2025: Query Performance Prediction and its Applications in the Era of Large Language Models**    
       **Chuan Meng**, Guglielmo Faggioli, Mohammad Aliannejadi, Nicola Ferro, and Josiane Mothe    
       **ECIR 2025**: The 47th European Conference on Information Retrieval   
-      6th--10th April 2025, Lucca, Italy    
+      6--10 April 2025, Lucca, Italy    
       [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_49) [[website]](https://qppworkshop.github.io/)   
 * Senior Program committee member
   - CIKM 2026
@@ -276,7 +276,7 @@ Scholarships & Awards
 
 Resources
 ======
-I have curated the following resources:
+My open-source code and data have attracted over **800** GitHub stars and over **14,000** Hugging Face downloads, and my code has been reused by companies including Snowflake and Dataminr. I have curated the following resources:
 * a [resource repository](https://huggingface.co/grill-lab) on Hugging Face ([**over 14,000 downloads**](https://github.com/ChuanMeng/text-ranking-in-deep-research#resources-released)) providing the passage corpus, pre-built retriever indexes, and agent execution trajectories for deep research.
 * a [code repository](https://github.com/ChuanMeng/text-ranking-in-deep-research) (**over 200 stars**) providing scripts for text ranking in deep research, within a Python/PyTorch framework
 * a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 100 stars**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework
