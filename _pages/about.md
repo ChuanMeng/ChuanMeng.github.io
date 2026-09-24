@@ -165,39 +165,39 @@ Teaching & Supervision
   - **Agentic Search: Foundations, Optimization, and Long-Horizons**          
     **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton     
     **CIKM 2026**: The 35th ACM International Conference on Information and Knowledge Management (upcoming)    
-    7th November 2026, Rome, Italy       
+    7 November 2026, Rome, Italy       
   - **Conversational Search: From Fundamentals to Frontiers in the Age of Agents**          
     **Chuan Meng**, Fengran Mo, Mohammad Aliannejadi, Jeff Dalton, and Jian-Yun Nie     
     **WWW 2026**: The ACM Web Conference 2026    
-    30th June 2026, Dubai, United Arab Emirates      
-    [[pdf]](https://dl.acm.org/doi/10.1145/3774905.3793917) [[slides]](https://convsearch.github.io/assets/files/tutorial_www2026_convsearch_30.6.2026.pdf) [[website]](https://convsearch.github.io/www2026/)       
+    30 June 2026, Dubai, United Arab Emirates      
+    [[paper]](https://dl.acm.org/doi/10.1145/3774905.3793917) [[slides]](https://convsearch.github.io/assets/files/tutorial_www2026_convsearch_30.6.2026.pdf) [[website]](https://convsearch.github.io/www2026/)       
   - **Conversational Search: Foundations, Large Language Models, and Agents**          
     **Chuan Meng**, Fengran Mo, Mohammad Aliannejadi, Jeff Dalton, and Jian-Yun Nie     
     **ECIR 2026**: The 48th European Conference on Information Retrieval    
-    29th March--2nd April 2026, Delft, The Netherlands      
-    [[pdf]](https://link.springer.com/chapter/10.1007/978-3-032-21321-1_2) [[slides]](https://convsearch.github.io/assets/files/tutorial_ecir2026_convsearch_29.3.2026.pdf) [[website]](https://convsearch.github.io/ecir2026/)       
+    29 March--2 April 2026, Delft, The Netherlands      
+    [[paper]](https://link.springer.com/chapter/10.1007/978-3-032-21321-1_2) [[slides]](https://convsearch.github.io/assets/files/tutorial_ecir2026_convsearch_29.3.2026.pdf) [[website]](https://convsearch.github.io/ecir2026/)       
   - **Conversational Search: From Fundamentals to Frontiers in the LLM Era**          
     Fengran Mo, **Chuan Meng**, Mohammad Aliannejadi, and Jian-Yun Nie     
     **SIGIR 2025**: The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval    
-    13th--the 17th July 2025, Padua, Italy      
-    [[pdf]](https://dl.acm.org/doi/10.1145/3726302.3731686) [[slides]](https://convsearch.github.io/assets/files/tutorial_sigir2025_convsearch_13.7.2025.pdf) [[website]](https://convsearch.github.io/sigir2025/)       
+    13--17 July 2025, Padua, Italy      
+    [[paper]](https://dl.acm.org/doi/10.1145/3726302.3731686) [[slides]](https://convsearch.github.io/assets/files/tutorial_sigir2025_convsearch_13.7.2025.pdf) [[website]](https://convsearch.github.io/sigir2025/)       
   - **Query Performance Prediction: Theory, Techniques and Applications**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **WSDM 2025**: The 18th ACM International Conference on Web Search and Data Mining    
-    10th--the 14th March 2025, Hanover, Germany     
-    [[pdf]](https://dl.acm.org/doi/10.1145/3701551.3703480) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_wsdm_3.10.2025.pdf)
+    10--14 March 2025, Hanover, Germany     
+    [[paper]](https://dl.acm.org/doi/10.1145/3701551.3703480) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_wsdm_3.10.2025.pdf)
   - **Query Performance Prediction: Techniques and Applications in Modern Information Retrieval**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **SIGIR-AP 2024**: The 2nd ACM SIGIR-AP conference    
-    9th--12th December 2024, Tokyo, Japan    
-    [[pdf]](https://dl.acm.org/doi/abs/10.1145/3673791.3698438) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_sigirap2024_9.12.2024.pdf)
+    9--12 December 2024, Tokyo, Japan    
+    [[paper]](https://dl.acm.org/doi/abs/10.1145/3673791.3698438) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_sigirap2024_9.12.2024.pdf)
   - **Query Performance Prediction: From Fundamentals to Advanced Techniques**    
     Negar Arabzadeh, **Chuan Meng**, Mohammad Aliannejadi, and Ebrahim Bagheri    
     **ECIR 2024**: The 46th European Conference on Information Retrieval   
-    24th--28th March 2024, Glasgow, UK    
-    [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
-* Lecturing:
-  - **Conversational Search: From Fundamentals to Frontiers in the Agent Era** (guest lecture, about **50** MSc and final-year undergraduate students), University of Edinburgh, March 2026    
+    24--28 March 2024, Glasgow, UK    
+    [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
+* Lecturing: so far, I have delivered 3 lectures (1 course lecture and 2 guest lectures) in the United Kingdom, the United States, and the Netherlands, to about 140 undergraduate and postgraduate students.
+  - **Conversational Search: From Fundamentals to Frontiers in the Agent Era** (guest lecture, about **50** MSc and final-year undergraduate students), The University of Edinburgh, March 2026    
     Host: [Alexandra Birch](https://sites.google.com/view/alexandra-birch/home)    
     [[slides]](https://chuanmeng.github.io/files/slides/lecture_edinburgh_convsearch_20.3.2026.pdf)
   - **Conversational Search: From Fundamentals to Frontiers in the LLM Era** (guest lecture, about **40** undergraduate students), University of Massachusetts Amherst, October 2025    
