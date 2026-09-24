@@ -253,7 +253,7 @@ Administration Activities
 
 Awards & Scholarships
 ======
-* First places in international evaluations
+* Ranked No. 1 in international evaluations
   - **1st place** among 84 open-source agent systems from 9 countries (below 100B parameters), BrowseComp-Plus deep research leaderboard, organised by the University of Waterloo, Carnegie Mellon University, and others, 2026
   - **1st place** in document retrieval among 24 systems from 7 countries, TREC Interactive Knowledge Assistance Track (iKAT), US National Institute of Standards and Technology, 2023
 * Scholarships and awards
