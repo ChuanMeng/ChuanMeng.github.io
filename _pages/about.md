@@ -34,7 +34,7 @@ I have authored papers published in proceedings/journals, such as ACL, EMNLP, NA
    **SIGIR 2026**: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval                  
    [[pdf]](https://dl.acm.org/doi/10.1145/3805712.3808557) [[code]](https://github.com/ChuanMeng/text-ranking-in-deep-research)   
 2. **Agent and Tool Search: Foundations, Techniques, and Open Challenges**       
-   Bin Wu, Hossein A. Rahmani, To Eun Kim, Arastun Mammadli, Shuofei Qiao, Xiao Fu, Varsha Ramineni, Xiaoyu Zhang, **Chuan Meng (core contributor)**, George Drayson, Anu Chowdhury, Jerome Ramos, Abdine Maiga, and Emine Yilmaz     
+   Bin Wu, Hossein A. Rahmani, To Eun Kim, Arastun Mammadli, Shuofei Qiao, Xiao Fu, Varsha Ramineni, Xiaoyu Zhang, **Chuan Meng**, George Drayson, Anu Chowdhury, Jerome Ramos, Abdine Maiga, and Emine Yilmaz     
    Preprint, 2026     
    [[pdf]](https://openreview.net/pdf?id=lk32qfuE5U)     
 3. **Re-Rankers as Relevance Judges**       
