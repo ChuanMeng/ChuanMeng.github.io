@@ -22,17 +22,17 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 [[Google Scholar]](https://scholar.google.com/citations?user=F5gFxkcAAAAJ&hl=en) [[DBLP]](https://dblp.org/pid/247/5768.html) [[LinkedIn]](https://www.linkedin.com/in/chuan-meng-354066217/) [[X (formerly Twitter)]](https://twitter.com/ChuanMg) [[ORCID]](https://orcid.org/0000-0002-1434-7596)
 
 
-Publications
+Selected Publications
 ======
 
-As of September 2026, I have published **30+** papers, with 800+ citations (Google Scholar) and an h-index of 17.
+As of September 2026, I have published **30+** papers, with 800+ citations (Google Scholar) and an h-index of 17. I have published at venues such as SIGIR, ACL, EMNLP, AAAI, NAACL, CIKM, ECIR, and TOIS.
 
-According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf-ranks/), **11** of my papers are at CORE A* venues and **5** at CORE A venues; I am first author of **11** of these 16 papers (9 at A* and 2 at A venues). My journal articles are in ACM TOIS (impact factor 11.2), ranked 7th of 266 journals in Computer Science, Information Systems in the Journal Citation Reports.
+According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf-ranks/), **11** of my papers are at CORE A* venues and **5** at CORE A venues. My journal articles are in ACM TOIS (impact factor 11.2), ranked 7th of 266 journals in Computer Science, Information Systems in the Journal Citation Reports.
 
 1. **Revisiting Text Ranking in Deep Research**            
    **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton         
    **SIGIR 2026** <span style="color:#b22222">(CORE A*)</span>: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval                  
-   (**Ranked 1st** in accuracy among 84 open-source agent systems below 100B parameters from 9 countries on the BrowseComp-Plus leaderboard)     
+   (**Ranked 1st** in accuracy among 84 open-source agent systems from 9 countries (below 100B parameters) on the BrowseComp-Plus leaderboard, organised by the University of Waterloo, Carnegie Mellon University, and others)     
    [[pdf]](https://dl.acm.org/doi/10.1145/3805712.3808557) [[code]](https://github.com/ChuanMeng/text-ranking-in-deep-research)   
 2. **Agent and Tool Search: Foundations, Techniques, and Open Challenges**       
    Bin Wu, Hossein A. Rahmani, To Eun Kim, Arastun Mammadli, Shuofei Qiao, Xiao Fu, Varsha Ramineni, Xiaoyu Zhang, **Chuan Meng**, George Drayson, Anu Chowdhury, Jerome Ramos, Abdine Maiga, and Emine Yilmaz     
@@ -78,51 +78,39 @@ According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf
    Zahra Abbasiantaeb, **Chuan Meng**, Leif Azzopardi and Mohammad Aliannejadi       
    **ECIR 2025** <span style="color:#b22222">(CORE A)</span>: The 47th European Conference on Information Retrieval        
    [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88708-6_13) [[code]](https://github.com/ChuanMeng/QPP-GenRE)        
-13. **Can We Use Large Language Models to Fill Relevance Judgment Holes?**      
-   Zahra Abbasiantaeb, **Chuan Meng**, Leif Azzopardi, Mohammad Aliannejadi      
-   **LLM4Eval**: The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval      
-   [[pdf]](https://arxiv.org/abs/2405.05600) [[code]](https://github.com/ChuanMeng/QPP-GenRE)            
-14. **Query Performance Prediction for Conversational Search and Beyond**      
+13. **Query Performance Prediction for Conversational Search and Beyond**      
    **Chuan Meng**      
    **SIGIR 2024** <span style="color:#b22222">(CORE A*)</span>: The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval      
    [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657658)      
-15. **Ranked List Truncation for Large Language Model-based Re-Ranking**      
+14. **Ranked List Truncation for Large Language Model-based Re-Ranking**      
    **Chuan Meng**, Negar Arabzadeh, Arian Askari, Mohammad Aliannejadi, and Maarten de Rijke      
    **SIGIR 2024** <span style="color:#b22222">(CORE A*)</span>: The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval      
    [[pdf]](https://dl.acm.org/doi/10.1145/3626772.3657864) [[code]](https://github.com/ChuanMeng/RLT4Reranking)      
-16. **LLM-based Retrieval and Generation Pipelines for TREC Interactive Knowledge Assistance Track (iKAT) 2023**      
-   Zahra Abbasiantaeb, **Chuan Meng**, David Rau, Antonis Krasakis, Hossein A. Rahmani, and Mohammad Aliannejadi      
-   **TREC 2023**: The Thirty-Second Text REtrieval Conference (**Our submitted runs ranked 1st** in document retrieval among 24 systems from 7 countries)      
-   [[pdf]](https://trec.nist.gov/pubs/trec32/papers/IRLab-Amsterdam.K.pdf)      
-17. **Expand, Highlight, Generate: RL-driven Document Generation for Passage Reranking**          
+15. **Expand, Highlight, Generate: RL-driven Document Generation for Passage Reranking**          
    Arian Askari, Mohammad Aliannejadi, **Chuan Meng**, Evangelos Kanoulas, and Suzan Verberne       
    **EMNLP 2023** <span style="color:#b22222">(CORE A*)</span>: The 2023 Conference on Empirical Methods in Natural Language Processing             
    [[pdf]](https://aclanthology.org/2023.emnlp-main.623/)      
-18. **System Initiative Prediction for Multi-turn Conversational Information Seeking**       
+16. **System Initiative Prediction for Multi-turn Conversational Information Seeking**       
    **Chuan Meng**, Mohammad Aliannejadi, and Maarten de Rijke         
    **CIKM 2023** <span style="color:#b22222">(CORE A)</span>: The 32nd ACM International Conference on Information and Knowledge Management      
    [[pdf]](https://dl.acm.org/doi/10.1145/3583780.3615070) [[code]](https://github.com/ChuanMeng/SIP)      
-19. **Query Performance Prediction: From Ad-hoc to Conversational Search**      
+17. **Query Performance Prediction: From Ad-hoc to Conversational Search**      
     **Chuan Meng**, Negar Arabzadeh, Mohammad Aliannejadi, and Maarten de Rijke       
     **SIGIR 2023** <span style="color:#b22222">(CORE A*)</span>: The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval        
     [[pdf]](https://dl.acm.org/doi/10.1145/3539618.3591919) [[code]](https://github.com/ChuanMeng/QPP4CS)      
-20. **Performance Prediction for Conversational Search Using Perplexities of Query Rewrites**         
-    **Chuan Meng**, Mohammad Aliannejadi, and Maarten de Rijke      
-    **QPP++ 2023**: Query Performance Prediction and Its Evaluation in New Tasks Workshop co-located with The 45th European Conference on Information Retrieval      
-    [[pdf]](https://ceur-ws.org/Vol-3366/paper-05.pdf) [[code]](https://github.com/ChuanMeng/QPP4CS)      
-21. **Initiative-Aware Self-Supervised Learning for Knowledge-Grounded Conversations**      
+18. **Initiative-Aware Self-Supervised Learning for Knowledge-Grounded Conversations**      
     **Chuan Meng**, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tengxiao Xi, and Maarten de Rijke      
     **SIGIR 2021** <span style="color:#b22222">(CORE A*)</span>: The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval      
     [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462824)      
-22. **Conversations Powered by Cross-Lingual Knowledge**        
+19. **Conversations Powered by Cross-Lingual Knowledge**        
     Weiwei Sun<sup>#</sup>, **Chuan Meng<sup>#</sup>(co-first author)**, Qi Meng, Zhaochun Ren, Pengjie Ren, Zhumin Chen, and Maarten de Rijke      
     **SIGIR 2021** <span style="color:#b22222">(CORE A*)</span>: The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval         
     [[pdf]](https://dl.acm.org/doi/10.1145/3404835.3462883) [[code]](https://github.com/sunnweiwei/ckgc)      
-23. **DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation**      
+20. **DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation**      
     **Chuan Meng**, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu and Maarten de Rijke       
     **SIGIR 2020** <span style="color:#b22222">(CORE A*)</span>: The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval      
     [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401097) [[code]](https://github.com/ChuanMeng/DukeNet)      
-24. **RefNet: A Reference-aware Network for Background Based Conversation**        
+21. **RefNet: A Reference-aware Network for Background Based Conversation**        
     **Chuan Meng**, Pengjie Ren, Zhumin Chen, Christof Monz, Jun Ma, and Maarten de Rijke      
     **AAAI 2020** <span style="color:#b22222">(CORE A*)</span>: The Thirty-Fourth AAAI Conference on Artificial Intelligence      
     [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6370) [[code]](https://github.com/ChuanMeng/RefNet)      
@@ -136,7 +124,7 @@ So far, I have organized a workshop, served on the program committees of 13 majo
       **Chuan Meng**, Guglielmo Faggioli, Mohammad Aliannejadi, Nicola Ferro, and Josiane Mothe    
       **ECIR 2025**: The 47th European Conference on Information Retrieval   
       6--10 April 2025, Lucca, Italy    
-      [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_49) [[website]](https://qppworkshop.github.io/)   
+      [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_49) [[website]](https://qppworkshop.github.io/)   
 * Senior Program committee member
   - CIKM 2026
 * Program committee member
@@ -264,20 +252,24 @@ Administration Activities
 * Chair for internal seminars at IRLab, University of Amsterdam, 2023
 * Lead organizer of the IRLab BBQ event, University of Amsterdam, 2023
 
-Scholarships & Awards
+Awards & Scholarships
 ======
-* Excellent Master's Thesis of Shandong Province, 2022
-* National Scholarship (China), 2020/2016
-* Outstanding Graduates of Shandong Province, 2021/2017
-* SIGIR Student Travel Grant, 2020
-* Scholarship for Outstanding Postgraduate Cadres of Shandong University, 2020/2019
-* AAAI Student Scholar Scholarship, 2019
-* Academic Scholarship for Master Students of Shandong University, 2019
-* Outstanding Students of Shandong Province, 2017
+* First places in international evaluations
+  - **1st place** among 84 open-source agent systems from 9 countries (below 100B parameters), BrowseComp-Plus deep research leaderboard, organised by the University of Waterloo, Carnegie Mellon University, and others, 2026
+  - **1st place** in document retrieval among 24 systems from 7 countries, TREC Interactive Knowledge Assistance Track (iKAT), US National Institute of Standards and Technology, 2023
+* Scholarships and awards
+  - Excellent Master's Thesis of Shandong Province, 2022
+  - National Scholarship (China), 2020/2016
+  - Outstanding Graduates of Shandong Province, 2021/2017
+  - SIGIR Student Travel Grant, 2020
+  - Scholarship for Outstanding Postgraduate Cadres of Shandong University, 2020/2019
+  - AAAI Student Scholar Scholarship, 2019
+  - Academic Scholarship for Master Students of Shandong University, 2019
+  - Outstanding Students of Shandong Province, 2017
 
 Resources
 ======
-My open-source code and data have attracted over **800** GitHub stars and over **14,000** Hugging Face downloads, and my code has been reused by companies including Snowflake and Dataminr. I have curated the following resources:
+My open-source code and data have attracted over **800** GitHub stars across all my repositories and over **14,000** Hugging Face downloads, and my code has been reused by companies including Snowflake and Dataminr. Representative resources I have curated include:
 * a [resource repository](https://huggingface.co/grill-lab) on Hugging Face ([**over 14,000 downloads**](https://github.com/ChuanMeng/text-ranking-in-deep-research#resources-released)) providing the passage corpus, pre-built retriever indexes, and agent execution trajectories for deep research.
 * a [code repository](https://github.com/ChuanMeng/text-ranking-in-deep-research) (**over 200 stars**) providing scripts for text ranking in deep research, within a Python/PyTorch framework
 * a [code repository](https://github.com/ChuanMeng/QPP-GenRE) (**over 100 stars**) providing scripts for fine-tuning open-source LLMs to generate relevance judgments, within a Python/PyTorch framework

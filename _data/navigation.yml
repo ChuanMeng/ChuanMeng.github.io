@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /#publications
+  - title: "Selected Publications"
+    url: /#selected-publications
 
   - title: "Academic Service"
     url: /#academic-service    
@@ -15,8 +15,8 @@ main:
   - title: "Administration Activities"
     url: /#administration-activities
         
-  - title: "Scholarships & Awards"
-    url: /#scholarships--awards
+  - title: "Awards & Scholarships"
+    url: /#awards--scholarships
     
   - title: "Resources"
     url: /#resources
