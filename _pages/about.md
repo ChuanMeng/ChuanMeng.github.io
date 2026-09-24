@@ -196,7 +196,7 @@ Teaching & Supervision
     **ECIR 2024**: The 46th European Conference on Information Retrieval   
     24--28 March 2024, Glasgow, UK    
     [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_51) [[slides]](https://chuanmeng.github.io/files/slides/tutorial_ecir2024_28.3.2024.pdf)
-* Lecturing: so far, I have delivered 3 lectures (1 course lecture and 2 guest lectures) in the United Kingdom, the United States, and the Netherlands, to about 140 undergraduate and postgraduate students.
+* Lecturing: so far, I have delivered 3 lectures (1 course lecture and 2 guest lectures) in the United Kingdom, the United States, and the Netherlands.
   - **Conversational Search: From Fundamentals to Frontiers in the Agent Era** (guest lecture, about **50** MSc and final-year undergraduate students), The University of Edinburgh, March 2026    
     Host: [Alexandra Birch](https://sites.google.com/view/alexandra-birch/home)    
     [[slides]](https://chuanmeng.github.io/files/slides/lecture_edinburgh_convsearch_20.3.2026.pdf)
@@ -216,7 +216,7 @@ Teaching & Supervision
 
 Talks & Presentations
 ======
-So far, I have delivered 10 invited talks at universities and industrial research labs.
+So far, I have delivered 10 invited talks in academia (the Royal Society, UCL, King's College London, the University of Glasgow, the University of Sheffield, and the China Conference on Information Retrieval) and industry (Amazon in Seattle and London, and Objective, Inc.).
 
 Invited talks:
 * **The Role of Information Retrieval in Deep Research**        
