@@ -27,12 +27,11 @@ Selected Publications
 
 As of September 2026, I have published **30+** papers, with 800+ citations (Google Scholar) and an h-index of 17. I have published at venues such as SIGIR, ACL, EMNLP, AAAI, NAACL, CIKM, ECIR, and TOIS.
 
-According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf-ranks/), **11** of my papers are at CORE A* venues and **5** at CORE A venues.
+According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf-ranks/), **11** of my papers are at <span style="color:#b22222">CORE A*</span> venues and **5** at <span style="color:#b22222">CORE A</span> venues.
 
 1. **Revisiting Text Ranking in Deep Research**            
    **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton         
    **SIGIR 2026** <span style="color:#b22222">(CORE A*)</span>: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval                  
-   (**Ranked 1st** in accuracy among 84 open-source agent systems from 9 countries (below 100B parameters) on the BrowseComp-Plus leaderboard, organised by the University of Waterloo, Carnegie Mellon University, and others)     
    [[pdf]](https://dl.acm.org/doi/10.1145/3805712.3808557) [[code]](https://github.com/ChuanMeng/text-ranking-in-deep-research)   
 2. **Agent and Tool Search: Foundations, Techniques, and Open Challenges**       
    Bin Wu, Hossein A. Rahmani, To Eun Kim, Arastun Mammadli, Shuofei Qiao, Xiao Fu, Varsha Ramineni, Xiaoyu Zhang, **Chuan Meng**, George Drayson, Anu Chowdhury, Jerome Ramos, Abdine Maiga, and Emine Yilmaz     
