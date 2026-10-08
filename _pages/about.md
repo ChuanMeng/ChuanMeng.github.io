@@ -14,7 +14,7 @@ I received my Ph.D. degree from the University of Amsterdam (UvA) in June 2025, 
 My doctoral dissertation, titled "Optimizing Agentic Workflows for Information Access", is available [here](https://pure.uva.nl/ws/files/234887966/Thesis.pdf). 
 During my PhD, I worked as an Applied Scientist Intern at Amazon, working on LLM-powered conversational agents.
 
-My research lies at the intersection of agentic AI, information retrieval (IR), and natural language processing (NLP), with a focus on **cost-effective long-horizon agents for information seeking**, such as deep research agents.
+My research is in agentic AI, specifically **teaching AI agents to search** effectively and at low cost, with applications from complex question answering, such as deep research, to scientific discovery.
 
 
 My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chuan_Meng.pdf).   
