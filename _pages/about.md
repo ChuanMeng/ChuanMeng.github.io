@@ -125,8 +125,8 @@ So far, I have organized 2 workshops, served on the program committees of 13 maj
 * Workshop organization
   - **LongSeek: The First Workshop on Long-Horizon Information Seeking**    
       **Chuan Meng**, Fengran Mo, Jinghan Zhang, Zhenrui Yue, Yan Wang, Jimin Huang, Chen Luo, Mohammad Aliannejadi, Michael Bendersky, and Jeff Dalton    
-      **WSDM 2027**: The 20th ACM International Conference on Web Search and Data Mining (9 of 24 workshop proposals accepted)   
-      19 February 2027, Hong Kong    
+      **WSDM 2027**: The 20th ACM International Conference on Web Search and Data Mining   
+      15--19 February 2027, Hong Kong    
   - **QPP++2025: Query Performance Prediction and its Applications in the Era of Large Language Models**    
       **Chuan Meng**, Guglielmo Faggioli, Mohammad Aliannejadi, Nicola Ferro, and Josiane Mothe    
       **ECIR 2025**: The 47th European Conference on Information Retrieval   
