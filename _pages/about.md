@@ -157,7 +157,7 @@ So far, I have organized 2 workshops (1 upcoming), served on the program committ
 
 Teaching & Supervision
 ====== 
-* Tutorial organization: so far, I have organized 7 tutorials, as the first speaker in 3 of them and the second speaker in the other 4.
+* Tutorial organization: so far, I have organized 7 tutorials (1 upcoming), as the first speaker in 3 of them and the second speaker in the other 4.
   - **Agentic Search: Foundations, Optimization, and Long-Horizons**          
     **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton     
     **CIKM 2026**: The 35th ACM International Conference on Information and Knowledge Management (upcoming)    
