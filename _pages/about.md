@@ -153,7 +153,7 @@ So far, I have organized 2 workshops (1 upcoming), served on the program committ
   - Transactions on Information Systems (TOIS)
   - Pattern Recognition
   - Information Processing and Management (IP&M)
-* arXiv, Moderator (cs.IR), February 2026-present
+* arXiv, Moderator (Computer Science), February 2026-present
 
 Teaching & Supervision
 ====== 
