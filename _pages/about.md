@@ -120,12 +120,12 @@ According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf
 
 Academic Service
 ======
-So far, I have organized 2 workshops, served on the program committees of 13 major venues (including as a senior program committee member), reviewed for 3 journals, and served as a moderator for arXiv.
+So far, I have organized 2 workshops (1 upcoming), served on the program committees of 13 major venues (including as a senior program committee member), reviewed for 3 journals, and served as a moderator for arXiv.
 
 * Workshop organization
   - **LongSeek: The First Workshop on Long-Horizon Information Seeking**    
       **Chuan Meng**, Fengran Mo, Jinghan Zhang, Zhenrui Yue, Yan Wang, Jimin Huang, Chen Luo, Mohammad Aliannejadi, Michael Bendersky, and Jeff Dalton    
-      **WSDM 2027**: The 20th ACM International Conference on Web Search and Data Mining   
+      **WSDM 2027**: The 20th ACM International Conference on Web Search and Data Mining (upcoming)   
       15--19 February 2027, Hong Kong    
   - **QPP++2025: Query Performance Prediction and its Applications in the Era of Large Language Models**    
       **Chuan Meng**, Guglielmo Faggioli, Mohammad Aliannejadi, Nicola Ferro, and Josiane Mothe    
