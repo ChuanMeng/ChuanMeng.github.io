@@ -120,7 +120,7 @@ According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf
 
 Academic Service
 ======
-So far, I have organized 2 workshops (1 upcoming), served on the program committees of 13 major venues (including as a senior program committee member), reviewed for 3 journals, and served as a moderator for arXiv.
+So far, I have organized 2 workshops (1 upcoming), chaired 2 conference sessions, served on the program committees of 13 major venues (including as a senior program committee member), reviewed for 3 journals, and served as a moderator for arXiv.
 
 * Workshop organization
   - **LongSeek: The First Workshop on Long-Horizon Information Seeking**    
@@ -132,6 +132,9 @@ So far, I have organized 2 workshops (1 upcoming), served on the program committ
       **ECIR 2025**: The 47th European Conference on Information Retrieval   
       6--10 April 2025, Lucca, Italy    
       [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_49) [[website]](https://qppworkshop.github.io/)   
+* Session chair
+  - **ECIR 2026**: session "Reproducibility I: Recommender Systems", 30 March 2026, 14:30-15:30
+  - **SIGIR 2025**: session "Machine Learning 1", 15 July 2025, 10:30-12:30
 * Senior Program committee member
   - CIKM 2026
 * Program committee member
