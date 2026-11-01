@@ -214,6 +214,7 @@ Teaching & Supervision
 * PhD mentoring: 
   - [Paul Owoicho](https://www.linkedin.com/in/paulowoicho/), The University of Edinburgh, with Dr. [Jeff Dalton](https://people.inf.ed.ac.uk/Jeff_Dalton.html)
   - [Lili Lu](https://lulili0963.github.io/), Università della Svizzera italiana (USI), with Prof. dr. [Fabio Crestani](https://search.usi.ch/en/people/4f0dd874bbd63c00938825fae1843200/crestani-fabio)
+* Student support training: completed the Scotland's Mental Health First Aid (SMHFA) course, Public Health Scotland, 27-28 October 2026
 
 Talks & Presentations
 ======
