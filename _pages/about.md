@@ -161,7 +161,11 @@ So far, I have organized 2 workshops (1 upcoming), chaired 2 conference sessions
 
 Teaching & Supervision
 ====== 
-* Tutorial organization: so far, I have organized 7 tutorials (1 upcoming), as the first speaker in 3 of them and the second speaker in the other 4.
+* Tutorial organization: so far, I have organized 8 tutorials (2 upcoming), as the first speaker in 4 of them and the second speaker in the other 4.
+  - **Agentic Search: Optimization, Long-Horizons, and Evaluation**          
+    **Chuan Meng**, Litu Ou, Andrew Drozdov, Sean MacAvaney, Andrew Yates, and Jeff Dalton     
+    **WSDM 2027**: The 20th ACM International Conference on Web Search and Data Mining (upcoming)    
+    15 February 2027, Hong Kong       
   - **Agentic Search: Foundations, Optimization, and Long-Horizons**          
     **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton     
     **CIKM 2026**: The 35th ACM International Conference on Information and Knowledge Management (upcoming)    
