@@ -170,7 +170,7 @@ Teaching & Supervision
     **Chuan Meng**, Litu Ou, Sean MacAvaney, and Jeff Dalton     
     **CIKM 2026**: The 35th ACM International Conference on Information and Knowledge Management    
     7 November 2026, Rome, Italy       
-    [[paper]](https://dl.acm.org/doi/abs/10.1145/3799682.3839277) [[slides]](https://agentic-search.github.io/cikm2026/slides/cikm2026_agentic_search_tutorial_slides.pdf) [[website]](https://agentic-search.github.io/cikm2026/)       
+    [[paper]](https://dl.acm.org/doi/abs/10.1145/3799682.3839277) [[slides]](https://agentic-search.github.io/assets/files/tutorial_cikm2026_agenticsearch_7.11.2026.pdf) [[website]](https://agentic-search.github.io/cikm2026/)       
   - **Conversational Search: From Fundamentals to Frontiers in the Age of Agents**          
     **Chuan Meng**, Fengran Mo, Mohammad Aliannejadi, Jeff Dalton, and Jian-Yun Nie     
     **WWW 2026**: The ACM Web Conference 2026    
