@@ -134,9 +134,9 @@ So far, I have organized 2 workshops (1 upcoming), chaired 3 conference sessions
       6--10 April 2025, Lucca, Italy    
       [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-88720-8_49) [[website]](https://qppworkshop.github.io/)   
 * Session chair
-  - **CIKM 2026**: session "LLM Agents & Memory", 11 November 2026, 16:00-18:00 [[program]](https://cikm2026.diag.uniroma1.it/program/)
-  - **ECIR 2026**: session "Reproducibility I: Recommender Systems", 30 March 2026, 14:30-15:30 [[program]](https://ecir2026.eu/programme/program-schedule)
-  - **SIGIR 2025**: session "Machine Learning 1", 15 July 2025, 10:30-12:30 [[program]](https://sigir2025.dei.unipd.it/detailed-program)
+  - **CIKM 2026**: session "LLM Agents & Memory", 11 November 2026, 16:00--18:00 [[program]](https://cikm2026.diag.uniroma1.it/program/)
+  - **ECIR 2026**: session "Reproducibility I: Recommender Systems", 30 March 2026, 14:30--15:30 [[program]](https://ecir2026.eu/programme/program-schedule)
+  - **SIGIR 2025**: session "Machine Learning 1", 15 July 2025, 10:30--12:30 [[program]](https://sigir2025.dei.unipd.it/detailed-program)
 * Senior Program committee member
   - CIKM 2026
 * Program committee member
