@@ -25,7 +25,7 @@ My curriculum vitae is available [here](https://chuanmeng.github.io/files/CV_Chu
 Selected Publications
 ======
 
-As of September 2026, I have published **30+** papers, with 800+ citations (Google Scholar) and an h-index of 17. I have published at venues such as SIGIR, ACL, EMNLP, AAAI, NAACL, CIKM, ECIR, and TOIS.
+As of November 2026, I have published **30+** papers, with 800+ citations (Google Scholar) and an h-index of 17. I have published at venues such as SIGIR, ACL, EMNLP, AAAI, NAACL, CIKM, ECIR, and TOIS.
 
 According to the [ICORE 2026 conference ranking](https://portal.core.edu.au/conf-ranks/), **11** of my papers are at <span style="color:#b22222">CORE A*</span> venues and **5** at <span style="color:#b22222">CORE A</span> venues.
 
